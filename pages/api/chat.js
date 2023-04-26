@@ -18,7 +18,10 @@ export default async function (req, res) {
 
   const chain = ConversationalRetrievalQAChain.fromLLM(
     model,
-    vectorStore.asRetriever()
+    vectorStore.asRetriever(),
+    {
+      returnSourceDocuments: true,
+    }
   );
 
   const response = await chain.call({
@@ -26,7 +29,7 @@ export default async function (req, res) {
     chat_history: req.body.history,
   });
 
-  console.log(response);
-
-  res.status(200).json({ result: response.text });
+  res
+    .status(200)
+    .json({ result: response.text, references: response.sourceDocuments });
 }
