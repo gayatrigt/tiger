@@ -1,0 +1,325 @@
+What is SparkLoop?
+The best referral tool for newsletter subscriber growth.
+ Manuel Frigerio avatar 
+
+Written by Manuel Frigerio. Updated over a week ago
+SparkLoop is the referral tool for newsletter growth. Thousands of smart newsletter creators use SparkLoop to get more high-quality email subscribers on autopilot. You should, too.
+With SparkLoop, it’s easy to reward your subscribers for sharing your newsletter with their friends. So you grow faster, improve subscriber engagement, and spend less money and time on growth.
+Unlike other referral tools, SparkLoop was built for newsletters. So you can set up your powerful referral program—exactly like Morning Brew—in just a few clicks.
+No developers, code, or Zapier hacks needed!
+  
+
+How SparkLoop works
+Let’s talk about how SparkLoop helps you get subscribers. It comes down to this simple process:
+1. Every subscriber on your email list is given a unique referral code and, using this code, a unique sharing link is generated.
+2. You promote your referral program in your newsletter, giving each subscriber their unique sharing link.
+3. Your subscribers share their links with their family, friends, colleagues, and social media followers.
+4. Any time someone signs up using this referral link, the referring subscriber (a.k.a. the advocate) gets points for that referral.
+5. SparkLoop tracks referrals and allows you to give rewards to subscribers when they hit certain milestones, that is, a specific number of referrals.
+To learn how easy we make this for you to implement, check out our features page here.
+If you'd like to find out what rewards would work best and what kind of growth boost you can expect from SparkLoop, book a short call with our team.
+We’ll even guide you through creating your ideal referral strategy—for free—in the 30 minutes we spend together.
+
+
+Glossary of commonly used terms
+A set of standard terms used across SparkLoop documentation. 
+ Manuel Frigerio avatar 
+
+Written by Manuel Frigerio. Updated over a week ago
+Here are some of the terms you’ll encounter in our documentation and what they mean.
+Advocates: aka Referrer. Someone who promotes a newsletter to their contacts.
+Campaign: A referral program set up in SparkLoop that is attached to a specific list in the ESP.
+Customer: Someone who is paying to use a product or service.
+Double-sided referral program: A referral program in which both the advocate and the new subscriber are incentivized, the advocate for bringing in a referral, and the new subscriber for signing up.
+Email subscribers aka Email contact: Someone who has opted in to receive email communication from a content creator/brand.
+ESP: Email Service Provider. A company that offers email marketing services.
+Magic link: Links created by SparkLoop’s free tool, Magic, that can be added in any partner newsletter to let their readers opt-in to an email list with just one click.
+Media brand: A platform for a community with shared interests, focused on the interests of this community through content aggregation and offered services.
+Milestone rewards: Prizes given to subscribers for hitting a certain number of referrals aka milestones.
+* Trigger reward: For subscribers who get between 1 and 3 referrals. Ideally compelling, automated, and free, such as a pdf report or coupon.
+* Momentum builders: For subscribers who get between 2 and 10 referrals. Ideally have 2-3 rewards in this range, giving subscribers an attainable goal, that is, something that will motivate them to share again.
+* Aspirational rewards: For subscribers who get between 11 and 50 referrals. Rewards that subscribers are likely to highly desire. Often physical rewards.
+* Showstoppers: For subscribers who get 50+ referrals. Ideally rewards that’ll get influencers talking and sharing, for instance, golf retreats, signed books, and invitations to exclusive events.
+Newsletter: An email broadcast sent out to people who have opted to receive it.
+Newsletter publisher: A person or company that sends out regular email broadcasts to subscribers who have opted to receive it.
+Paid subscriber: Someone who pays to receive content from a media brand (the NYT’s subscriber base, for instance, would consist of its paying customers).
+Partner program: A strategic partnership offered by SparkLoop to help eligible businesses earn revenue by helping their audiences unlock game-changing email growth.
+Recurring reward: A reward that is offered repeatedly for achieving various milestones in a referral program. For instance, for every three referrals a subscriber makes, they get a 10% discount on services.
+Referral giveaways: A type of promotion in which advocates/referrers are entered into a random prize draw for bringing in referrals during a certain period.
+* The Subscribe-to-Win giveaway: Used to incentivize people who are not already part of an email list by offering them the chance to win a prize when they subscribe.
+* The Refer-to-Win giveaway: Similar to a normal referral program, but instead of winning rewards for making referrals, subscribers are entered into a draw to win a prize.
+* The Two-Sided giveaway: A combination of the Subscribe-to-Win and Refer-to-Win giveaways. Both existing subscribers who make referrals and new subscribers who sign up are entered into a giveaway.
+Referral giveaway prizes: The reward offered for the winner of the random prize draw.
+Referral hub: The area on the SparkLoop website where subscribers can see how many people they’ve referred, what prizes they can win, and get sharing links.
+Referral link: A unique link given to each email subscriber of a newsletter that allows them to share the newsletter with their friends/contacts.
+Referral points: Points assigned to each new referral a subscriber brings in. Often one, but can be more.
+Referral program: A program through which a newsletter publisher incentivizes and rewards existing subscribers for bringing in subscribers.
+Referral section: The area of a newsletter where subscribers are given their unique sharing links.
+Referral traffic: Web users who visit a website using a unique referral link.
+Referrals: Someone who has signed up for a newsletter based on a recommendation from a friend, using that friend’s unique link.
+Total referral count: The number of referrals a subscriber has brought in.
+User: Someone who uses a product or service, free or paid.
+Visual builder: A tool inside SparkLoop that helps newsletter publishers create gorgeous referral sections within seconds.
+SparkLoop onboarding walkthrough
+A step-by-step guide to setting up your first campaign in SparkLoop.
+ Manuel Frigerio avatar 
+
+Written by Manuel Frigerio. Updated over a week ago
+You’ve signed up for SparkLoop!
+Congratulations on taking the first step in starting your referral program!
+To get your referral program up and running, you need to go through SparkLoop’s onboarding process. It will take up to 90 minutes after your email list has finished importing.
+Let’s get started.
+Step 1: Generate referral links
+This is the most important step of the process, but don’t let that lead you into believing it’s also complex.
+It’s not. It is, quite literally, one click.
+SparkLoop needs to access your email list in order to generate unique referral links and referral codes for each individual subscriber, thus ensuring they’re tracked and rewarded properly for referrals.
+To import your list, simply log in to your SparkLoop account.
+You’ll then be asked to pick from a list of email providers and, once you’ve made your selection and signed in, guided to import your list.
+  
+
+That’s it. No code. No copy-pasting. No elaborate processes.
+⚠️ Once you start an import of your subscribers in SparkLoop, you'll need to wait several hours—up to 24 hours for large lists—before going through the rest of the onboarding.
+Once your list is connected, we can move on to the next step.
+Step 2: Add the rewards (10 min)
+  
+
+The rewards you choose are arguably the most important thing in your referral program, so it's worth spending some extra time thinking about what you’ll offer.
+Digital content? Swag? Unique coupons?
+SparkLoop makes the entire process super simple and intuitive. Plus, you can use our Shopify integration, API, and webhooks to handle fulfilment of even the wildest of rewards!
+Find reward inspiration in our Rewards Library
+For detailed instructions on how to create a reward, read this.
+Step 3: Set up reward fulfilment (20 min)
+  
+
+When your subscribers win a reward, you want to email and congratulate them for winning, and send them instructions for how to access the reward.
+⚠️ This email is also a fantastic opportunity to foster engagement and motivate your subscribers to keep inviting friends.
+You can set up reward emails through automated sequences in your ESP.
+Here are detailed instructions on how to do so.
+Step 4: Check your subscribers have referral links (5 min)
+  
+
+Before launching for the first time, you need to check that all of your subscribers have had their referral codes correctly synced in your email platform.
+SparkLoop creates a unique referral link for each of your subscribers. This referral code is included in your emails (in the referral section)—and it's stored as the RH_REFLINK custom field in your email platform.
+Before launching, you need to make sure that all of your newsletter subscribers have had their referral links generated and stored in the RH_REFLINK custom field in your email platform.
+You can do this by filtering (or segmenting) your subscribers in your email platform to ONLY show subscribers who have an RH_REFLINK custom field with no value (also sometimes called blank or empty).
+If everything is set up correctly, there should only be at most 1-2 subscribers with an empty RH_REFLINK field.
+Step 5: Set your referral link destination (1 min)
+  
+
+Each of your subscribers is given a unique referral link. They should share this unique link with friends, colleagues, or strangers on the Internet.
+Every time someone clicks on your subscriber’s unique referral link, they’ll be taken to a page on your website where they can join your email list by filling out a form. This is how your subscribers earn referral points.
+To make this possible, you need to choose a page on your website that your subscribers’ unique referral links will take people to.
+This is called your referral link destination.
+It should probably be a page you’ve already created. Somewhere lots of people are already signing up for your email list. Like your newsletter homepage or your most popular lead magnet landing page.
+To set your referral link destination, follow these steps.
+Step 6: Install the tracking script (10 min)
+  
+
+SparkLoop’s tracking script can be installed on any web or landing page, eliminating the need for specific referral pages.
+Any landing page you’re using and that’s already converting well can also bring in referrals.
+Here’s how to find and install it.
+Step 7: Create your email referral section (10 min)
+  
+
+The referral section is the place in your newsletter where you tell your subscribers about your referral program, give them their unique sharing link, and even show them how many referrals they need to make to win the next reward.
+With SparkLoop, it’s easy to add a beautiful, completely customized referral section to your newsletter in just a few clicks, giving your subscribers an easy way to share their referral links straight from your emails.
+You can find inspiration, examples of successful referral sections, and detailed instructions on how to create yours here.
+Step 8: Add an intro email (10 min)
+  
+
+You should include your referral section in (most of) your regular email sends. The best time to ask a subscriber to share their referral link is soon after they subscribed, when everything is still new and exciting to them.
+For best results, add an extra email—specifically introducing the referral program—to your existing welcome sequence for new subscribers, ideally 5-10 days after they first subscribed.
+Here’s a guide to setting up email automations in your ESP.
+Step 9: Add a first referral email (10 min)
+  
+
+People don't normally see themselves as "ambassadors" or "advocates,” which is why getting the first referral is such a transformational experience.
+It's in that moment when that they realize they’ve impacted someone’s decision to sign up for a newsletter.
+This moment needs to be celebrated. By them and by you! You want to take this opportunity to tell your subscribers they’ve gotten their first referral and be a part of celebrating it with them.
+This email, too, can be set up using an automated sequence in your ESP.
+Here are detailed instructions on the emails you should send, best practices for each, and how to set them up in each ESP.
+And that’s it. Your SparkLoop onboarding is done!
+One last step and you’ll be ready to launch your referral program.
+Let’s take care of that now.
+Pre-launch checklist
+Use this checklist of best practices to ensure your campaign is set up properly.
+ Manuel Frigerio avatar 
+
+Written by Manuel Frigerio. Updated over a week ago
+You’ve gone through the onboarding and you’re ready to launch your referral program! 🎉
+One last step…
+Let’s run a few checks to make sure everything’s working as it should.
+Here’s a checklist that will help you check each individual piece of the referral program and make sure you haven’t missed any steps.
+⚠️ If you just updated your referral link or started an import of your subscribers in SparkLoop, you'll need to wait several hours—up to 24 hours for large lists—before going through this checklist and launching your referral program.
+Step 1: Check your subscribers have referral codes
+When you sign up for SparkLoop and go through our onboarding process, one of the first steps you will take is to connect your ESP to SparkLoop and import your subscriber list.
+SparkLoop then creates a unique referral code and link for each of your subscribers. The referral code is included in your emails (in the referral section) and stored as the RH_REFLINK custom field in your ESP.
+  
+
+Before launching, we need to ensure that all of your newsletter subscribers have had their referral links generated and stored in the RH_REFLINK custom field in your ESP.
+You can do this by filtering or segmenting your subscribers in your ESP to only show subscribers who have an RH_REFLINK custom field with no value (also sometimes called blank or empty).
+  
+
+If everything is set up correctly, there should be at most 1-2 subscribers with an empty RH_REFLINK field.
+If your subscribers haven’t synced, check out this Troubleshooting guide for the reasons they haven’t, and what you can do about it.
+Step 2: Check your rewards are set up correctly
+The rewards you choose are arguably the most important thing in your referral program, so let’s make sure they’re set up and being delivered correctly.
+Here’s what you need to check for:
+* Do you have rewards created in SparkLoop for the correct number of referrals?
+* Do you have automation emails in place to handle what happens when one of your subscribers makes enough referrals to win a reward? Learn how to do that here.
+If you're running a giveaway instead of a regular referral program, you can skip this step.
+Step 3: Is the referral section of your newsletter set up correctly?
+One of the key elements of your SparkLoop campaign is the referral section your subscribers will see in your newsletter, which is why it’s essential that you test it before launching your campaign to make sure it’s working smoothly.
+What we want to do is make sure the links in your newsletter referral section are set up correctly.
+  
+
+To do this, create a draft broadcast or campaign in your email platform and send it to yourself.
+Once you receive the email, check:
+* Do the referral link and social share links work correctly?
+* Do they link to the correct URL?
+Some email platforms have limitations around how merge fields are displayed in test emails and templates.
+To be certain, it’s always best to create a “real” broadcast or campaign and send that just to yourself.
+⚠️ Make sure your email address is subscribed to the list and has the SparkLoop custom fields, otherwise the test won’t work.
+Step 4: Try a test referral
+Let's make sure everything is working fine by doing a test referral.
+1. Click on the Subscribers tab in your SparkLoop dashboard, and search for your email address.
+2. Copy the referral link from your subscriber profile and open the referral landing page in an incognito browser window (private browsing mode).
+3. Subscribe to your newsletter using an email address that isn't already present in your email platform. It needs to be a completely fresh email address—aliases (e.g. louis+test@sparkloop.app) won't work as they'll be caught by our fraud prevention systems.
+4. If you have double-opt in enabled, go to your inbox and confirm the subscription.
+5. Wait 1-2 minutes. If the referral was tracked correctly, you'll be able to see in the SparkLoop dashboard that your original email address has been credited with a referral.
+Step 5: Check your tracking code is working
+Once you’ve installed the SparkLoop script/tracking code on your website, it's time to make sure everything’s working as we intended.
+In particular, you need to test three things:
+* New subscribers are added to SparkLoop.
+* Referrals are being tracked correctly.
+* Custom fields are updated correctly in your ESP.
+New subscribers are added to SparkLoop
+To test this:
+* Sign up using one of the forms on your website.
+* If you've enabled double opt-in, make sure to click the link in the confirmation email.
+* If everything goes well, you should see your sign-up in your SparkLoop dashboard within a few minutes.
+Referrals are being tracked correctly
+To ensure referrals are being tracked:
+* Go to your campaign's dashboard > Subscribers.
+* Click on a subscriber to see their profile. Underneath their email address, you will find their unique referral link.
+Custom fields are updated correctly in your ESP
+We already did this in Step 1, but if you didn’t, now’s the time to loop back to the beginning and get those steps done.
+Once you’ve been through these five steps, you're ready to launch your referral program.
+Take a deep breath, and go!
+Good luck!
+We’re here if you need us.
+Update your anti-fraud settings
+How to choose the right anti-fraud levels for your campaign. 
+ Manuel Frigerio avatar 
+
+Written by Manuel Frigerio. Updated over a week ago
+Detecting referral fraud and making sure your subscribers don’t win rewards by cheating is one of our most important responsibilities—and something we take very seriously!
+Our anti-fraud measures ensure only high-quality referrals and is the reason most big newsletters go with us—we’re by far the most advanced in terms of anti-fraud for email referral programs.
+SparkLoop comes with a sophisticated range of anti-fraud mechanisms to help you detect and prevent cheating in an automated, or mostly automated, way.
+This keeps the quality of your list high, without requiring a lot of manual effort from you.
+Anti-fraud levels
+You can set your preferred level of anti-fraud detection by going to Settings > Anti-fraud.
+  
+
+There are 3 levels of anti-fraud security in SparkLoop: Flexible, Strong and Very Strong.
+The majority of referral programs will be best served by the Flexible setting.
+Larger newsletters, referral programs offering high-value or expensive rewards, may find the Strong setting necessary.
+The Very Strong setting is our highest level of anti-fraud.
+⚠️ We only recommend using the Very Strong setting if you have an audience that is extremely prone to cheating, or are using a reward or giveaway prize of extremely high value.
+Very Strong anti-fraud protection will label everything we think could be fraud as “rejected.” That inevitably means some real referrals will be marked as rejected too.
+For most of our customers, it's an easier and better experience to allow a small number of fraudulent referrals to get through, rather than blocking all fake referrals but having subscribers complaining that their friend signed up but wasn't counted as a referral.
+How anti-fraud works
+When a new referral is tracked, our algorithm will assess the fraud level in real-time.
+Noticeably fraudulent referrals will immediately be rejected and marked as rejected referral, regardless of your anti-fraud level.
+Fraudulent referrals include people who use email aliases (for example, john@gmail.com refers john+1@gmail.com) or disposable domains (temporary, one-time email addresses that don't require the creation of an account and that are often used by bots; e.g. mailinator.com).
+When a referral is marked as "rejected," it will not count towards the advocate's reward points. And it won't be included in their referral count (or the RH_TOTREF custom field in your ESP).
+When a referral is marked as “rejected,” SparkLoop will update their RH_ISREF custom field to “REJECTED”. This allows you to segment these subscribers in your ESP and easily remove or unsubscribe them.
+Unverified referrals
+Sometimes, it's not immediately obvious if a referral is fraudulent.
+If that happens, our anti-fraud algorithms predict the likelihood of a referral being fraudulent based on multiple factors such as the referral's IP address, device, domain and other secret factors (AKA our "secret sauce").
+Based on your selected anti-fraud level, SparkLoop may then mark a referral we aren't completely sure about as Unverified.
+You can see all the referrals SparkLoop couldn't verify as genuine by going to the Unverified tab under the Subscribers page.
+  
+
+There, you can easily and quickly reject the referrals you think are fraudulent.
+Manual and semi-manual reward approval
+The most important concern when it comes to anti-fraud is making sure rewards—especially ones that have a production cost—can't be won by cheating.
+To help you avoid giving rewards to cheating subscribers, you can set a custom reward approval level on a reward-by-reward basis.
+There are 3 levels:
+* Automated: The reward will be approved automatically when a subscriber wins it. Ideal for digital/low-monetary rewards (e.g.: a free ebook, access to a secret newsletter).
+* Semi-manual: The reward requires manual approval in case of unverified referrals ONLY. When a subscriber wins this reward, we will check whether any of their referrals are unverified. If so, we will send you an email prompting you to manually approve (or reject) the reward. If the subscriber has only made verified referrals, the reward will be approved automatically.
+* Manual: The reward always requires manual confirmation. Ideal for expensive/high-monetary-value rewards that are won infrequently.
+You can set the approval level of each reward in the "edit reward" modal.
+  
+
+Blocking and whitelisting
+Every now and again, you might notice a subscriber who refers lots of obviously fake referrals, and you want to prevent them from attempting to make more referrals in the future.
+To block advocates who are referring fraudulent email addresses:
+Go to their profile > Click on Actions > Select Block.
+  
+
+Whitelisting is the opposite of blocking, that is, when you whitelist an advocate, SparkLoop will automatically confirm any reward they win even if they have unverified referrals.
+You can use this feature to ensure that any referrals that your known fans and ambassadors bring in are approved automatically.
+⚠️ You will still need to manually approve any rewards that require manual confirmation.
+To whitelist an advocate:
+Go to their profile > Click on Actions > Select Whitelist.
+⚠️ You can unblock or remove advocates from the whitelist any time.
+Rejecting individual referrals
+There might be times when you want to retroactively reject verified referrals. This can happen, for example, when you notice a fraudulent referral has got away from our anti-fraud algorithm.
+To manually reject referrals, follow these steps:
+1. Go to the referrer's profile page and scroll down to the Referrals section.
+2. Select all the referrals you want to reject by ticking the checkbox next to their email address.
+  
+
+3. Click on the Reject Referrals button in the top right corner.
+4. In the modal window, click on Reject Referrals again to confirm the rejection.
+  
+
+When you reject referrals, SparkLoop will update the RH_ISREF custom field of the rejected referrals to “REJECTED” in your email platform. This allows you to segment these subscribers and easily remove them or unsubscribe them.
+⚠️ Please note that rejecting these referrals will NOT remove rewards that have already been won.
+Track the ROI of your referral program
+Calculate and see, at a glance, how much revenue your referrals are generating
+ Manuel Frigerio avatar 
+
+Written by Manuel Frigerio. Updated over a week ago
+⚠️ This is an advanced, on-demand feature, available on our Media Brand plan.
+While it’s great to know how many new subscribers your advocates are bringing to your newsletter, what if you had a way to track how much revenue those referrals are generating?
+In SparkLoop, you do!
+Using our ROI tracking feature, you can track monetary events such as purchases, upgrades, and paid memberships, and know exactly how much extra money your referral program is generating for your business.
+ROI tracking makes it easy for you to:
+1. See, at a glance, the ROI on your referral program.
+2. Know which advocates are generating the highest referral revenue.
+3. Work out how many new customers you’re getting as a direct result of running your referral program.
+The numbers you need to know
+In your SparkLoop dashboard, you’ll see the Referral Revenue. This is the total amount of money that people who’ve been referred to your program by advocates have spent with you in the time period selected.
+  
+
+If you’d like to see the referral revenue generated by each individual advocate, that’s possible, too.
+In order to see subscriber data, go to Subscribers > Advocates, and select the advocate whose data you’d like to see.
+Here, you will find two numbers:
+* Referral revenue: This is the revenue that has been generated by referrals this advocate has brought in.
+* Spend: How much money this advocate has spent with you.
+  
+
+Use cases for this feature
+If you decide to track the ROI of your referral program, you’ll need to know what events you’re using to track this revenue. Will you be tracking total sales, sales of a particular product, upgrades, or something else?
+We call these conversion events.
+⚠️ Anything that has a monetary value can be used to track the ROI of your referral program.
+You’ll send these conversion events to SparkLoop and we’ll combine the sales of your products with your referral data to give you an accurate picture of how well your referral program is performing.
+For instance,
+* You promote a low-cost introductory offer in a welcome sequence to anyone who signs up for your email list, and want to track the ROI based only on this offer and not any others.
+* You only want to track the ROI from evergreen offers and not special sales or one-time promotions that you run for your regular subscribers.
+* You’re a consultant interested in booking calls. If you’ve calculated that each booked call is worth a specific dollar value to you, then you can create a conversion event that’s a booked call. As long as it has a dollar value attached to it, SparkLoop will consider it a monetary conversion event and calculate your ROI based on calls booked.
+Setting it up
+In order to track your ROI, you need to send monetary conversion events to SparkLoop.
+You can send events in two ways:
+1. Using our API.
+2. Using our Zapier integration.
+Can I send SparkLoop past data?
+If you have past purchases that you want to send to SparkLoop, then you can set up your events to do that. SparkLoop will accept the events you send us, regardless of whether those transactions happened in the past.
+Be warned, however, that this can skew your numbers.
+Sorting subscribers by referral revenue
+It’s easy to see which of your advocates are bringing in the most referral revenue.
+To do so, in your SparkLoop dashboard, go to Subscribers > Advocates and click on the Referral Revenue header. Your subscribers will be sorted by referral revenue.
+Alternatively, you can export the CSV file of your subscribers, which also contains a Referral Revenue column.
+Now that you’ve set up your ROI tracking, you can start to see the real dollar value your referral program is generating, and take any steps you need to maximize it.
