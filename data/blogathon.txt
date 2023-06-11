@@ -1,0 +1,336 @@
+THE TIGER THOUGHTFLUENCER PROGRAM 
+
+The Tiger Thoughtfluencer Program (TFL)  is our endeavor towards cultivating a culture of thought leadership, rekindling the passion for ideas and original thinking that have made us at Tiger, who we are.  
+
+We’re looking to build a community of Tiger Experts and Evangelists across levels and interests, people who’ll lead the wave of storytelling around data, bringing numbers and tech to life.  
+
+Navigating through tech trends, serving as an ethical compass when needed, reminding people of the true purpose of AI - the need to create a better working world, and inspiring the data engineering and data science community to constantly do better - these are just some of the stories we want to tell and the influence we want to exert. 
+
+We’ll achieve this by creating a self-sustaining community of authors, writers and influencers and empowering them with the right coaching and training that will include article writing, social media and personal branding. 
+
+In the spirit of this initiative, we're launching a Blogathon Campaign featuring:
+
+- A straightforward blogging competition based on article submissions.
+- A writers' workshop to provide beginner writers with fundamental writing skills.
+- An esteemed jury determining the top four winners.
+- An opportunity for the top 50 participants who submit articles to be part of the Thoughtfluencer program.
+
+Why Join the Thoughtfluencer Blogathon?
+
+Not only are there exciting prizes up to USD 400 for the winner and guaranteed gifts upon registration, but you also get access to a free writing masterclass. Above all, you get the chance to join the Tiger Thoughtfluencer Community. We will guide you in building your personal brand and evolving into a Thought Leader.
+
+Registration link- https://forms.gle/ai9kVx3jzBGHy87N7
+
+Key Dates:
+Registration starts: 19th June 2023
+Writing Workshop: 14th July 2023
+Registration Closes: 10 August
+Winner Announcement: 21st August
+
+
+
+Blogathon Categories
+
+Category 1: The Hero Article
+
+Your article must:
+
+- Showcase a Tiger Solution/Capability, Tool/Accelerator/ AI principle, trend, tool, or technique, referencing pop culture.
+- Utilize dashboards and visualizations where relevant. For example, talk about CV in the latest Fifa World Cup using schematics and diagrams.
+- Maintain a Tiger flavor while incorporating a pop culture/topic reference such as music, movies, gaming, sport, festive season, mental health, etc.
+- Be original, not plagiarized or directly copied from the internet. All sources and references must be properly cited.
+
+What will we be judging you on?
+
+The originality of your topic, your thought process and approach, quality of analysis, and how well you incorporate the Tiger essence.
+
+Need inspiration? Check out these examples: 
+
+- [IPL Fantasy Leaderboard Data Analysis](https://www.tigeranalytics.com/blog/ipl-fantasy-leaderboard-data-analysis/)
+- [How Match-ups Can Win Matches](https://www.tigeranalytics.com/blog/match-ups-can-win-matches/)
+- [Building Resilient Supply Chains](https://www.tigeranalytics.com/blog/manufacturing-logistics-blog/suez-canal-crisis-building-resilient-supply-chains/)
+- [How Machine Learning Finds Your New Music](https://medium.com/s/story/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe)
+
+Category 2: The Genius Article
+
+Your article:
+
+- May feature tech nuggets, easy ways, or hidden features to use a tool.
+- Must include real application - not just theory. Include in your article how you've used this approach/feature with your clients or plan to. We value both theoretical and practical aspects!
+- Must not be plagiarized or directly copied from the internet. All sources and references must be properly cited.
+
+What we will be judging you on?
+
+Originality, unique introduction/point of view, how well you incorporate the Tiger essence, and your thought process and approach.
+
+For instance, see: [Step-by-Step Approach to Integrate Tableau with Python/R](https://www.tigeranalytics.com/blog/step-step-approach-integrate-tableau-python-r/)
+
+Category 3: The Shapeshifter Article
+
+In your article, you're encouraged to:
+
+- Propose new use cases for an existing Tiger tool or Accelerator in a completely novel field or industry. The tool should not have been used in that field/industry/for that use case before.
+- Ensure content is original and not directly copied from the internet. All sources and references must be properly cited.
+
+Judgement criteria:The uniqueness of your ideas and their potential for application.
+
+Prompt:Recommendation engines are common in retail and media. But have you thought about applying the same mechanisms in online real estate websites? This is something one team has worked on... But you can use your creativity to propose new use cases for existing tools and accelerators. The more innovative, the better!
+
+
+FAQs: Everything You Need to Know
+
+Who can participate? 
+Every Tiger Employee, irrespective of tenure, years of experience, or background. We welcome good ideas and unique perspectives.
+  
+Unsure about your writing skills?
+We've got your back. Register for our free writing workshop with a trained professional.
+
+Don't know what to write about?
+Our Category section will give you hints and references. Need more help? Try our Topic Idea Generator.
+
+Can I submit more than one article?
+Absolutely! Submit as many articles as you wish. Only the best one will be up for the prize.
+
+Can I work with a team?
+Yes. You can team up with another person to write together.
+
+Can I participate without registration?
+Registering gets you a special gift, reminders, and motivation while writing your article. However, you can still submit your articles to Blogs@tigeranalytics.com.
+
+How do I submit my articles?
+Email your article to blogs@tigeranalytics.com. Be sure to mention your name, category, and stream you're participating in.
+
+Join the Tiger Thoughtfluencer Program today and become part of our story. Let's shape the future together!
+
+
+Rules & Guidelines for Participation
+
+1. Article Length: Each article must have a minimum of 800 words.
+
+2. Confidentiality:Please refrain from including any client or confidential details in your articles.
+
+3. Team Participation: You can submit an individual article or collaborate with a teammate. Each team can consist of up to 2 people.
+
+4. Use of Visual Elements: Graphics, diagrams, and charts can be used to enhance the article. If using external visual content, proper credit must be given to the original source.
+
+5. Multiple Submissions: The same person or team can submit more than one article for consideration. In case of multiple entries by the same team or individual, only one winning article will be selected.
+
+6. Originality: All submissions must be original and unpublished work. Plagiarized content is strictly prohibited and will result in disqualification.
+
+7. Citation of Sources: All sources and references used in the article must be properly cited.
+
+8. Submission Deadline: Articles must be submitted before the contest deadline for consideration. Late entries will not be accepted.
+
+Adhere to these guidelines to ensure a fair and exciting competition. Let your ideas flow and may the best article win!
+
+
+Prizes & Awards
+
+- Overall Best Blog Winner: $400 
+- Category Winners: $250 (for each category)
+
+Please note:
+
+- Prizes are non-transferable and non-returnable.
+- Only one prize will be awarded per entry/per author. If an author has co-authored two or more articles, only one will be eligible for a prize.
+- Winners will be determined by the judges and the Marcom team. The judges' decision will be final and binding.
+
+
+Three Steps to Choose Your Blogathon Topic
+
+Deciding on a topic can be challenging, but we've made it simple for you. Follow our three-step process to choose a topic that blends your professional expertise with your personal interests.
+
+Step 1: Choose Your Field
+
+Think about the areas of expertise and tools you've used in your work. These could include:
+
+- Big Data Core
+- AWS, Azure & GCP BDE
+- Big Data Streaming
+- NoSQL Database Implementations
+- IoT Frameworks on Cloud
+- Data Quality
+- Data Lakes
+- Data Warehouses
+- Data Catalog
+- Data Governance
+- Master Data Management
+- Reference Data Management
+- Virtualization
+- Data Fabric
+- Operational Data Store
+- Metadata Driven Frameworks
+- Automated CI/CD Processes
+- Automated Testing
+- Snowflake
+- Data Modeling
+- Databricks
+
+Step 2: Identify Your Passion or Hobby
+
+What do you love to do in your free time? What excites and interests you? It could be:
+
+- Art
+- Gaming
+- Business
+- Finance
+- Music
+- Streaming
+- Movies
+- Sports
+
+Step 3: Combine Your Field and Passion
+
+Now, merge your professional field with your personal interest to create a unique topic. For example, "How Data Modelling can Help in Better Personal Finance."
+
+This process will allow you to write on a subject you're both knowledgeable and passionate about, making your blog even more engaging and enjoyable to read. Start brainstorming now and uncover the perfect topic for your entry into the Tiger Thoughtfluencer Program!
+
+Blog topics:
+1. Leveraging AWS for Enhanced Gaming Experience
+2. Azure Solutions for Finance Sector
+3. GCP BDE Tools for Movie Analytics
+4. Streamlining Sports with Big Data Streaming
+5. Unleashing the Power of NoSQL Databases in Music Industry
+6. How IoT Frameworks are Revolutionizing Art World
+7. Data Quality Checks for Online Streaming Platforms
+8. Building a Robust Data Lake for Business Analytics
+9. Utilizing Data Warehouses in the Gaming Industry
+10. How a Data Catalog can Enhance Movie Recommendations
+11. The Role of Data Governance in Finance
+12. Master Data Management in Sports Statistics
+13. Reference Data Management in the Music Industry
+14. How Data Virtualization Aids in Business Decision Making
+15. The Impact of Data Fabric on Gaming Platforms
+16. Operational Data Store: A Game-changer for Online Streaming
+17. Metadata-driven Frameworks for Efficient Business Operations
+18. Automating CI/CD Processes in the Music Industry
+19. How Automated Testing is Changing the Game in Sports Analytics
+20. Snowflake's Impact on Movie Analytics
+21. How Data Modeling Enhances Personal Finance Management
+22. Unleashing the Power of Databricks in Business Intelligence
+23. Using AWS to Streamline Art Creation and Sharing
+24. Harnessing Azure's Power for Efficient Gaming
+25. How GCP BDE Tools are Changing the Finance Landscape
+26. Streamlining Movie Production with Big Data Streaming
+27. The Impact of NoSQL Databases on Sports Analytics
+28. How IoT Frameworks are Transforming the Music Industry
+29. Ensuring Data Quality in Business Decision Making
+30. Building an Efficient Data Lake for Online Streaming
+31. Leveraging Data Warehouses for Better Gaming Analytics
+32. How Data Catalogs can Improve Music Recommendations
+33. Enhancing Financial Decisions with Data Governance
+34. Mastering Sports Stats with Master Data Management
+35. Changing the Music Landscape with Reference Data Management
+36. How Data Virtualization is Revolutionizing Movie Recommendations
+37. The Role of Data Fabric in Business Processes
+38. Operational Data Stores: Changing the Game in Online Streaming
+39. Metadata-driven Frameworks for Efficient Gaming Platforms
+40. Automating CI/CD Processes in the Finance Industry
+41. How Automated Testing is Impacting Sports Analytics
+42. Snowflake's Role in Enhancing Business Intelligence
+43. Data Modeling for Better Personal Finance Management
+44. Unlocking the Power of Databricks in Movie Analytics
+45. Using AWS for Advanced Music Streaming
+46. Azure's Role in Enhancing Gaming Experience
+47. How GCP BDE Tools are Streamlining Business Operations
+48. The Impact of Big Data Streaming on Movie Recommendations
+49. NoSQL Databases: Changing the Game in Sports Analytics
+50. IoT Frameworks: Revolutionizing the World of Online Music
+51. Ensuring Data Quality in Gaming Analytics
+52. Building a Robust Data Lake for Efficient Business Operations
+53. Utilizing Data Warehouses in Online Streaming
+54. Data Catalogs: The Future of Movie Recommendations
+55. How Data Governance is Impacting Financial Decisions
+56. Master Data Management in the World of Sports
+57. Revolutionizing the Music Industry with Reference Data Management
+58. How Data Virtualization is Changing the Game in Business Intelligence
+59. The Role of Data Fabric in Online Streaming
+60. Operational Data Store: A Game-changer in the Gaming Industry
+61. Metadata-driven Frameworks for Efficient Business Operations
+62. Automating CI/CD Processes in the World of Online Music
+63. How Automated Testing is Revolutionizing Sports Analytics
+64.
+
+ Snowflake's Role in Streamlining Business Intelligence
+65. Enhancing Personal Finance Management with Data Modeling
+66. Unlocking the Power of Databricks in the Gaming Industry
+67. Using AWS to Streamline Movie Production and Distribution
+68. Azure's Role in the Music Streaming Industry
+69. How GCP BDE Tools are Revolutionizing Business Operations
+70. The Impact of Big Data Streaming on Sports Analytics
+71. NoSQL Databases: The Future of Online Music Streaming
+72. How IoT Frameworks are Transforming the Gaming Industry
+73. Ensuring Data Quality in Business Analytics
+74. Building an Efficient Data Lake for Movie Analytics
+75. Leveraging Data Warehouses for Better Gaming Analytics
+76. How Data Catalogs are Transforming the Music Industry
+77. Enhancing Financial Decisions with Data Governance
+78. Master Data Management in Movie Production
+79. Reference Data Management: A Game-changer in the Gaming Industry
+80. How Data Virtualization is Revolutionizing Business Intelligence
+81. The Impact of Data Fabric on Online Music Streaming
+82. Operational Data Stores: Changing the Game in Sports Analytics
+83. Metadata-driven Frameworks for Efficient Business Operations
+84. Automating CI/CD Processes in the World of Movies
+85. How Automated Testing is Revolutionizing the Music Industry
+86. Snowflake's Role in Enhancing Gaming Analytics
+87. Data Modeling for Better Business Decisions
+88. Unlocking the Power of Databricks in Sports Analytics
+89. Using AWS for Advanced Business Analytics
+90. Azure's Role in Enhancing Movie Production and Distribution
+91. How GCP BDE Tools are Streamlining Sports Operations
+92. The Impact of Big Data Streaming on Music Streaming
+93. NoSQL Databases: Changing the Game in Gaming Analytics
+94. How IoT Frameworks are Transforming Business Operations
+95. Ensuring Data Quality in Movie Analytics
+96. Building a Robust Data Lake for Gaming Analytics
+97. Utilizing Data Warehouses in Music Streaming
+98. How Data Catalogs can Improve Business Decisions
+99. Enhancing Sports Analytics with Data Governance
+100. Mastering Music Stats with Master Data Management
+
+
+
+Another way to generate topic ideas:
+
+Feeling stuck while choosing a topic for your article? Try a different approach. Reflect on your personal experiences and explore the unique insights you've gained from your projects. 
+
+Begin by thinking about your past or current projects. Did you or your team implement any unique solutions or strategies? Did you overcome a significant challenge or find an innovative way to speed up a process? Did you learn any tips or tricks that made working on your projects easier, faster, or more effective? 
+
+Here are a few prompts to get you started:
+
+- What are some of the most challenging problems you or your team faced in your projects, and how did you overcome them?
+- Did you ever devise a unique strategy or framework that made your work more efficient?
+- Are there any tools or techniques that you found particularly useful in your work?
+- Have you discovered any hidden features in a tool that made a significant difference in your project?
+- How can this experience be turned into an informative and engaging article?
+- Who would benefit from learning about this experience?
+- What are the key takeaways from this experience that readers can apply in their own work?
+- How can this experience contribute to the broader field of knowledge in your area of expertise?
+
+Blog topics:
+1. How to Speed Up Your Data Analytics Project: Lessons from My Experience
+2. Making the Most of AWS: Essential Tips and Tricks from My Project
+3. Using Databricks for Enhanced Gaming Analytics: A Practical Guide
+4. Navigating Big Data Streaming in Music Industry: Insider Strategies
+5. Revolutionizing Business with NoSQL Database: My Journey
+6. The Power of IoT Frameworks in Movie Analytics: Lessons from My Project
+7. Ensuring Data Quality in Business Intelligence: Practical Tips and Tricks
+8. Building Efficient Data Lakes: Insider Strategies from My Experience
+9. Maximizing Data Warehouses in the Gaming Industry: A Practical Guide
+10. Leveraging Data Catalogs for Better Decision Making: My Journey
+11. Implementing Effective Data Governance: Lessons from My Project
+12. Master Data Management in the Sports Industry: Insider Strategies
+13. Making the Most of Reference Data Management in the Music Industry
+14. Utilizing Data Virtualization for Improved Business Intelligence: Practical Tips
+15. Exploiting the Potential of Data Fabric in Movie Production: My Journey
+16. Operational Data Store: The Game-Changer in Sports Analytics
+17. Using Metadata-Driven Frameworks for Efficient Business Operations: Lessons Learned
+18. Streamlining CI/CD Processes in the World of Movies: My Journey
+19. The Impact of Automated Testing on Music Streaming: Insider Strategies
+20. Exploring Snowflake's Power in Gaming Analytics: A Practical Guide
+21. Advantages of Data Modeling in Business Decisions: Lessons from My Project
+22. Azure and Movie Distribution: Unleashing Potential from My Experience
+23. GCP BDE Tools: Revolutionizing the Sports World - A Personal Account
+24. Big Data Streaming and Music Streaming: An Insider's Guide
+25. Implementing NoSQL Databases in Gaming Analytics: Practical Tips from My Experience

@@ -10,7 +10,7 @@ export default async function (req, res) {
   const model = new OpenAI({});
 
   const dataDirectory = path.join(process.cwd(), "data");
-  const text = await fs.readFile(dataDirectory + "/sparkloop.txt", "utf8");
+  const text = await fs.readFile(dataDirectory + "/blogathon.txt", "utf8");
 
   const textSplitter = new RecursiveCharacterTextSplitter({ chunkSize: 1000 });
   const docs = await textSplitter.createDocuments([text]);

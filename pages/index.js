@@ -118,7 +118,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Sparkloop GPT</title>
+        <title>Tiger Thoughtfluencer</title>
         <meta name="description" content="Sparkloop chatbot" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
@@ -235,7 +235,7 @@ export default function Home() {
               </a>
               . Built by{" "}
               <a href="https://twitter.com/iwahabshaikh" target="_blank">
-                Wahab
+                Gayatri
               </a>
               .
             </p>
