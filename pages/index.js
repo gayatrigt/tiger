@@ -226,12 +226,12 @@ export default function Home() {
             </form>
           </div>
           <div className={styles.footer}>
-            // <p>
+            <p>
               Powered by{" "}
-              //<a href="https://github.com/hwchase17/langchain" target="_blank">
+              <a href="https://github.com/hwchase17/langchain" target="_blank">
                 LangChain
               </a> 
-              . Built by{" "}
+              .Built by{" "}
               <a href="" target="_blank">
                 Gayatri
               </a>
