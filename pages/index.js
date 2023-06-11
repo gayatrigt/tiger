@@ -83,7 +83,7 @@ export default function Home() {
     setMessages((prevMessages) => [
       ...prevMessages,
       {
-        message: `${data.result}
+        message: data.result,
         type: "apiMessage",
       },
     ]);
