@@ -83,9 +83,7 @@ export default function Home() {
     setMessages((prevMessages) => [
       ...prevMessages,
       {
-        message: `${data.result}\n\n**References**:\n\n${data.references
-          .map((reference) => `- ${reference.pageContent}\n`)
-          .join("\n")}`,
+        message: `${data.result}
         type: "apiMessage",
       },
     ]);
