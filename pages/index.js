@@ -125,14 +125,14 @@ export default function Home() {
       </Head>
       <div className={styles.topnav}>
         <div className={styles.navlogo}>
-          <a href="/">Sparkloop GPT</a>
+          <a href="/">The Thoughtfluencer Blogathon</a>
         </div>
         <div className={styles.navlinks}>
           <a
-            href="https://github.com/wahabshaikh/sparkloop-gpt"
+            href=""
             target="_blank"
           >
-            GitHub
+            Tiger Analytics
           </a>
         </div>
       </div>
@@ -157,7 +157,7 @@ export default function Home() {
                   {/* Display the correct icon depending on the message type */}
                   {message.type === "apiMessage" ? (
                     <Image
-                      src="/parroticon.png"
+                      src="/download.png"
                       alt="AI"
                       width="30"
                       height="30"
@@ -228,13 +228,13 @@ export default function Home() {
             </form>
           </div>
           <div className={styles.footer}>
-            <p>
+            // <p>
               Powered by{" "}
-              <a href="https://github.com/hwchase17/langchain" target="_blank">
+              //<a href="https://github.com/hwchase17/langchain" target="_blank">
                 LangChain
-              </a>
+              </a> 
               . Built by{" "}
-              <a href="https://twitter.com/iwahabshaikh" target="_blank">
+              <a href="" target="_blank">
                 Gayatri
               </a>
               .
