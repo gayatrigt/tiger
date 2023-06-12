@@ -7,7 +7,7 @@ import path from "path";
 import { promises as fs } from "fs";
 
 export default async function (req, res) {
-  const model = new OpenAI({});
+  const chat = new ChatOpenAI();
 
   const dataDirectory = path.join(process.cwd(), "data");
   const text = await fs.readFile(dataDirectory + "/blogathon.txt", "utf8");
@@ -17,7 +17,7 @@ export default async function (req, res) {
   const vectorStore = await HNSWLib.fromDocuments(docs, new OpenAIEmbeddings());
 
   const chain = ConversationalRetrievalQAChain.fromLLM(
-    model,
+    chat,
     vectorStore.asRetriever(),
     {
       returnSourceDocuments: true,
