@@ -1,336 +1,579 @@
-THE TIGER THOUGHTFLUENCER PROGRAM 
+URL: https://sabbaticalhandbook.com/posts/the-sabbatical-faq
+Title: The Ultimate Sabbatical Guide
+      
+    
+Content: 
 
-The Tiger Thoughtfluencer Program (TFL)  is our endeavor towards cultivating a culture of thought leadership, rekindling the passion for ideas and original thinking that have made us at Tiger, who we are.  
+ Welcome to the Ultimate Sabbatical Guide.
 
-We’re looking to build a community of Tiger Experts and Evangelists across levels and interests, people who’ll lead the wave of storytelling around data, bringing numbers and tech to life.  
+This is your starting point to begin exploring the concept as I answer questions like
 
-Navigating through tech trends, serving as an ethical compass when needed, reminding people of the true purpose of AI - the need to create a better working world, and inspiring the data engineering and data science community to constantly do better - these are just some of the stories we want to tell and the influence we want to exert. 
+what is a sabbatical?
+why might one take one?
+what to expect from your sabbatical
+how to plan a sabbatical
+what to do in your first days and weeks and months
 
-We’ll achieve this by creating a self-sustaining community of authors, writers and influencers and empowering them with the right coaching and training that will include article writing, social media and personal branding. 
+how to plan and execute an exit from sabbatical and a return to work life.
 
-In the spirit of this initiative, we're launching a Blogathon Campaign featuring:
+and so on.
+For each of these questions there are answers that are very correct and very practical but they do not do justice to the fact that sabbaticals are magic. They are portals to lives and places and people and relationships and careers that can only be termed as magical. They are medicines that reconnect you with a source of endless energy inside you -- your joy.
 
-- A straightforward blogging competition based on article submissions.
-- A writers' workshop to provide beginner writers with fundamental writing skills.
-- An esteemed jury determining the top four winners.
-- An opportunity for the top 50 participants who submit articles to be part of the Thoughtfluencer program.
+A portal onto new landscape
+So, what is a sabbatical?
+Simply put, a sabbatical is an extended break from work. There are a number of flavors of this break -- some people use it to enhance their qualifications by enrolling in an educational course, some people use it to travel or recover from burnout or to seek out inspiration when the day to day grind becomes too much.
+A sabbatical can be any amount of time from three months to a year or more. It all depends on why you're taking it and how badly you want to escape your previous life, how badly you're burnt out and so on.
+Traditionally the reserve of college professors and doctors, essentially designed to allow for further education and to stay current with advances in one's field, more and more people are using the time off work to advance in one's career. Far from being the prefered choice of wastrels and layabouts, sabbatical has been used as a tool of career progression amongst the world's most demanding professions. And the time has come to make it more mainstream, as more and more people find themselves in need to reinvention and realignment as they progress through their careers.
+Why might one take a sabbatical?
+As my Dad used to say --
 
-Why Join the Thoughtfluencer Blogathon?
+Never change a winning game, always change a losing game. 
 
-Not only are there exciting prizes up to USD 400 for the winner and guaranteed gifts upon registration, but you also get access to a free writing masterclass. Above all, you get the chance to join the Tiger Thoughtfluencer Community. We will guide you in building your personal brand and evolving into a Thought Leader.
+If your career starts to feel heavy, sluggish, uninspiring, if you're exhausted or burnt out, if you feel that you need to upskill yourself to continue to thrive, it's time to make a change and sabbaticals are the best way I know of to do this.
+A sabbatical is an investment in oneself.
 
-Registration link- https://forms.gle/ai9kVx3jzBGHy87N7
 
-Key Dates:
-Registration starts: 19th June 2023
-Writing Workshop: 14th July 2023
-Registration Closes: 10 August
-Winner Announcement: 21st August
+What to expect during your sabbatical
+I talk about this at some length in the 'On Sabbatical' section. We talk about the first few days, weeks and months, the feelings of blessed relief coupled with the panic of being unmoored for the first time in a while. We talk about the anxiety and the source of the anxiety. We talk about the importance of allowing the mind to settle, to reconnect with your joy, to go deep into something, to start to flow energy upwards and outwards into the world.
+All these good things though come with their share of traps. You're a cortisol junkie gone cold turkey, there's bound to be withdrawals.
 
+Largely you will be riding this curve -- it will feel a little odd at first and then as you learn to relax into whatever the Universe has in store for you, you will feel more and more joyful and energetic and you exit the sabbatical having found a new vibe and a new tribe and screaming Hallelujahs as you get back to work with enviable new vigour.
+But that's not the only path out. And we'll discuss a lot more about exiting a sabbatical. After all the success of the sabbatical is very much determined by where you find yourself after it. We will be paying a lot of attention to crafting the perfect exit from your sabbatical.
+Practical Issues
+Life abounds with practical matters that must be dealt with. The provision of food, shelter and other such material considerations necessary to live with dignity need to be tended to, whether one is gainfully employed or not. Older people with families have complicated financial situtations where income streams cannot be halted without proper planning. All this is true and all this is not even the hard part.
+Spouses, parents, friends, children, etc -- all of these are participants in your sabbatical. It is necesasary to calm their fears before embarking on a sabbatical because in the early days, you will need all the support you can get to not bounce from this weird and unfamiliar world that you've just entered. 
+The Mindset
+And planning isn't even the hard part. The hard part is letting the plan play out in real life. You put together 12 months of savings but won't spend anything on your sabbatical because fear. And this is the great man-behind-the-curtain. Fear.
 
+In the end we realise that it's just shadows of the mind. That so many of those fears are fake. And this is the great victory from sabbatical -- our victory over our fears over imaginary futures. But that is in the future. For now we still have to rise above the mind-killer.
+The number one anxiety people have is that their time off will derail their career because they'll be unable to find a job after their break. But the list doesn't stop at one. There are whole swathes of various anxieties that come from letting go of a large part of one's identity. In my chapter on Anxiety, I'll talk about some of these and strategies for dealing with this anxiety.
+ Matters of Identity
+People develop their relationship with work through watching their parents work. But unfortunately, the world our parents worked in has disappeared and so our attitudes towards work can be quite outdated. I know of so many people who are burnt out but won't give themselves permission to take a break because 'my father never burnt out. I don't want to fail him', without realising that nothing about your work life resembles theirs.
+Other anxieties abound - social pressure to be productive for example, or fear of falling even further behind a peer group. And what society doesn't do for us, we do for ourselves -- beating ourselves up with guilt, absurd stories of how we can never amount to anything, telling ourselves we're fine when the head hurts and so on.
+There is no shortage of unproductive mindsets when it comes to work and career. And an unhealthy mindset is the biggest danger to a productive sabbatical as it can cause us to bounce from our sabbatical prematurely.
+Even so, we have to navigate the tension between our fears and our desires. Too much fear and we start wanting to control the outcome and fall back into unhelpful ways of working. In the worst case, we bounce from the sabbatical thinking that three weeks of afternoon naps has rejuvenated us.
+You're not alone
+I know that if you're burnt out, you're not alone. I know because as someone who speaks publicly about taking career breaks, dozens of people reach out to me to talk about this. And I have heard the same story so many times that I can tell you quite confidently that you're not alone.
 
-Blogathon Categories
 
-Category 1: The Hero Article
+------------------------------------------------------------
 
-Your article must:
+URL: https://sabbaticalhandbook.com/posts/what-is-a-sabbatical
+Title: What is a sabbatical?
+      
+    
+Content: 
 
-- Showcase a Tiger Solution/Capability, Tool/Accelerator/ AI principle, trend, tool, or technique, referencing pop culture.
-- Utilize dashboards and visualizations where relevant. For example, talk about CV in the latest Fifa World Cup using schematics and diagrams.
-- Maintain a Tiger flavor while incorporating a pop culture/topic reference such as music, movies, gaming, sport, festive season, mental health, etc.
-- Be original, not plagiarized or directly copied from the internet. All sources and references must be properly cited.
+Sabbatical is just a fancy word for 'career break'. Traditionally it has been the reserve of academics, university professors, scientists and so on who take a break from their normal stuff and go chill for a little while. A break in the routine so that they can indulge in rest and recovery, some research, some play, some attention to other aspects of one's personality.
 
-What will we be judging you on?
+There are some things that are luxuries that money cannot buy. An afternoon nap is one of them. A career break to just chill is another of them. It is the sign of a prosperous and civilized society to have a professional class that enjoys sabbaticals and as a result lives a richer and more fulfiling life. 
+In fact, it may be a civilizational imperative that the professional classes of society cultivate a depth, a seriousness, a sense of joy and wonder that allows them to collectively build a world that is not so uni-dimensional, a world that enjoys and celebrates a life of the mind and the heart, in addition to a life of accumulating wealth.
+The ancient Indian texts talk about this
 
-The originality of your topic, your thought process and approach, quality of analysis, and how well you incorporate the Tiger essence.
+Purushartha (Sanskrit: पुरुषार्थ, IAST: Puruṣārtha) literally means "object(ive) of men".[1] It is a key concept in Hinduism, and refers to the four proper goals or aims of a human life. The four puruṣārthas are Dharma (righteousness, moral values), Artha (prosperity, economic values), Kama (pleasure, love, psychological values) and Moksha (liberation, spiritual values, self-actualization).[2][3]
 
-Need inspiration? Check out these examples: 
+And the reason this is there in the ancient texts is because balancing these four duties is societally and civilizationally important. We have a lot of material on the Artha part of life. We need someone to talk about how important the other three are -- the path of desire, guided by one's values, towards liberation.
 
-- [IPL Fantasy Leaderboard Data Analysis](https://www.tigeranalytics.com/blog/ipl-fantasy-leaderboard-data-analysis/)
-- [How Match-ups Can Win Matches](https://www.tigeranalytics.com/blog/match-ups-can-win-matches/)
-- [Building Resilient Supply Chains](https://www.tigeranalytics.com/blog/manufacturing-logistics-blog/suez-canal-crisis-building-resilient-supply-chains/)
-- [How Machine Learning Finds Your New Music](https://medium.com/s/story/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe)
+Hustle culture and all is great but I am sure by now we're all ready to look at some alternatives. It seems logical that there should be paths apart from the omnipresent 'sigma grind'. A more gentle, more civilized, more examined, more deep experience of life is available. It is my mission to get as many people to taste this as possible.
 
-Category 2: The Genius Article
 
-Your article:
+Like entrepreneurship, life on sabbatical has a purpose all its own. The opportunity to go deep and study something is so amazing. The opportunity to travel and read and think and feel and climb and swim, to live a more almost primal life. This is a wonderful thing.
+And nothing bad need happen from doing this. You will do it, you will feel better, life will feel amazing and after you will find your feet. Trust yourself to do that.
+So the Sabbatical Handbook is exactly what it says on the cover - the handbook for people who want to take a career break. And the desire to take this break can be for whatever reason - exhaustion, boredom, FOMO, poor compensation. A well taken sabbatical can really have a positive impact on your life trajectory.
+There is also a more serious side to this. I fear we might be on the precipice of mass mental overwhelm. The global information networks have taken over our lives. The blue light of their screens pervades deep into our nights. The exposure is relentless and continuous. In the coming years, it will be more and more necessary to really do a hard unplug from time to time. This is something to be considered. I consider this in some length in 'This is not your father's career'.
+Being able to do a sabbatical well will be the difference between those who remain sane and those who go insane under the relentless grind of these screens. Don't worry about how the asli sharks live. We are not them.
+ 
+90+% of startups fail. And 100% of them work crazy hours. Can we really say this is working? And by the way I have always loved to work like that, with all consuming passion. But as Kevin Kelly recently said, if you have a good work ethic, it's important to have a good rest ethic.
+And during this rest period, it is then possible for us to nourish other aspects of ourselves. The reader, the dancer, the musician, the writer, the hiker, the....the list is endless. We can travel. We can be in nature.
+We can read whatever we want. That's right we can do away with the relentless self-improvement, the Atomic Habits and Think and Grow Rick and we can just read for pleasure! We can read from morning to night any darn crap - Swedish detective novels, fantasy novels, Almanacks, Borges, SICP (first three chapters again) - just read indiscriminately and like a fool, with no thought given to why just reading whatever we feel like till we start to feel like ourselves again.
+And then one can go deep into some infinite wonder and mystery of creation and experience what it is like to be bursting with energy and joyfulness. And we can bring this energy and joy to the next stage of our careers.
+And this is what a sabbatical is. It is a coming back to life.
 
-- May feature tech nuggets, easy ways, or hidden features to use a tool.
-- Must include real application - not just theory. Include in your article how you've used this approach/feature with your clients or plan to. We value both theoretical and practical aspects!
-- Must not be plagiarized or directly copied from the internet. All sources and references must be properly cited.
 
-What we will be judging you on?
 
-Originality, unique introduction/point of view, how well you incorporate the Tiger essence, and your thought process and approach.
+------------------------------------------------------------
 
-For instance, see: [Step-by-Step Approach to Integrate Tableau with Python/R](https://www.tigeranalytics.com/blog/step-step-approach-integrate-tableau-python-r/)
+URL: https://sabbaticalhandbook.com/posts/why-sabbaticals
+Title: Why Sabbaticals?
+      
+    
+Content: 
 
-Category 3: The Shapeshifter Article
+Most people's reaction when they hear about taking extended time off from work tends to be one of surprise. The whole concept flies directly in the face of everything we've learned about how to conduct a career, and usually it's not something most people consider a possibility.
+But it's a possibility I'd like you to consider, to at least get familiar with the idea of it so that you know it's an option in case you need it. And statistically, chances are that you will need it at some point in your life.
 
-In your article, you're encouraged to:
+https://www.cnbc.com/2023/03/14/burnout-is-on-the-rise-gen-z-millennials-and-women-are-the-most-stressed.html
+ 
+And the reason for this is that the modern workplace is nothing like anything that came before it in terms of the exposure to stress, both in its pattern and in its intensity. I talk about this more in 'This Is Not Your Father's Career'.
+But even apart from burnout, there are often great reasons to take sabbatical. As the bard has said,
 
-- Propose new use cases for an existing Tiger tool or Accelerator in a completely novel field or industry. The tool should not have been used in that field/industry/for that use case before.
-- Ensure content is original and not directly copied from the internet. All sources and references must be properly cited.
+There is a tide in the affairs of menWhich, taken at the flood, leads on to fortune;Omitted, all the voyage of their lifeIs bound in shallows and in miseries.On such a full sea are we now afloat;And we must take the current when it serves,Or lose our ventures.
 
-Judgement criteria:The uniqueness of your ideas and their potential for application.
+And so it is with modern careers. Back in the day, a person could reasonably hope that the lifespan of his industry would be longer than his career. This is no longer the case. For one, people change jobs and industries at an unprecedented rate, and secondly the rate of change of technological evolution means that almost all jobs or specialisations are at risk of obsoloscence.
+And since professionals do not have any occupational guarantees, it falls upon ourselves to keep ourselves from becoming obsolete. This is another great reason to take a study leave. I discuss this more in the post on 'Volatility'
 
-Prompt:Recommendation engines are common in retail and media. But have you thought about applying the same mechanisms in online real estate websites? This is something one team has worked on... But you can use your creativity to propose new use cases for existing tools and accelerators. The more innovative, the better!
 
+But in the end, all these logics are for people who have not tasted the magic of sabbatical. The real reason for taking sabbatical is because the world is a beautiful, rich, bewildering and amazing place, and I don't want to have to wait till I'm retired to really dig into this feast. I want to experience everything this world has to offer, and from time to time, this means having to step out of the confines of work life and go walkabout in this Garden of Eden.
+Sabbatical is how I honour the wonder of creation.
 
-FAQs: Everything You Need to Know
 
-Who can participate? 
-Every Tiger Employee, irrespective of tenure, years of experience, or background. We welcome good ideas and unique perspectives.
-  
-Unsure about your writing skills?
-We've got your back. Register for our free writing workshop with a trained professional.
+------------------------------------------------------------
 
-Don't know what to write about?
-Our Category section will give you hints and references. Need more help? Try our Topic Idea Generator.
+URL: https://sabbaticalhandbook.com/posts/on-sabbatical
+Title: On Sabbatical
+      
+    
+Content: 
 
-Can I submit more than one article?
-Absolutely! Submit as many articles as you wish. Only the best one will be up for the prize.
+So you've started your sabbatical? That's excellent. I will be adding a tonne of posts here on how to execute your sabbatical well. But last week I met a bunch of people who have started their sabbatical and I promised them I'd write about the early traps and dangers that a sabbatical will throw at them and so here it is: Just Started a Sabbatical? Read this first
+Ther is a weird psychology at work when we talk about our relationship with work, self-worth, suffering and reward and this psychology comes out in full force when one takes a break. It's quite amazing to watch, but not so much fun if you think this is all happening to you.
 
-Can I work with a team?
-Yes. You can team up with another person to write together.
+------------------------------------------------------------
 
-Can I participate without registration?
-Registering gets you a special gift, reminders, and motivation while writing your article. However, you can still submit your articles to Blogs@tigeranalytics.com.
+URL: https://sabbaticalhandbook.com/posts/planning-your-sabbatical
+Title: Planning Your Sabbatical
+      
+    
+Content: 
 
-How do I submit my articles?
-Email your article to blogs@tigeranalytics.com. Be sure to mention your name, category, and stream you're participating in.
+Planning a sabbatical is essential, but it's not essential for the reasons you think it is. The point of planning a sabbatical is not to achieve a certain goal from the sabbatical. There is one and only one aim to planning the sabbatical and that is to ensure that you take the required amount of time off to allow the sabbatical to work its magic. 
 
-Join the Tiger Thoughtfluencer Program today and become part of our story. Let's shape the future together!
+The only way to botch a sabbatical is to not take enough.
 
+Planning a sabbatical essentially involves ensuring that you give yourself the space and time in which to recover and to find the next thing worth dedicating your life to. In order to do this, several things need to be ensured.
 
-Rules & Guidelines for Participation
+You need to ensure that financial worries will not compel you to end your sabbatical prematurely.
+You need to ensure that family and peer pressure does not compel you back to work.
 
-1. Article Length: Each article must have a minimum of 800 words.
+That's it. 
+But shouldn't I make plans for all the free time?
+Short answer - no.
+Many people approach sabbatical planning with the mindset that if they do not make concrete plans for the sabbatical then they will just 'waste their time'. I'm telling you that this is a mistake.
+It's a mistake because your current state of mind requires one thing and one thing only -- relaxation. If you make plans they will be the plans of a burnt out person. The skill we want to develop during the early sabbatical is the skill of listening to one's body, to hear the voice of one's joy and to develop the courage to follow it.
+This burnt-out person cannot make plans for the well rested, energetic and expanded consciousness that will arise during your sabbatical. And making plans and forcing oneself to stick to them is only going to cause more friction and more burnout. A case of the cure being worse than the disease.
+And that's why the only planning one needs for a sabbatical is the creation of space -- in one's wallet, amongst one's family and peers and in oneself -- to rest deeply and allow the flowering of one's joy.
+Anything else is bound to result in pain.
 
-2. Confidentiality:Please refrain from including any client or confidential details in your articles.
+------------------------------------------------------------
 
-3. Team Participation: You can submit an individual article or collaborate with a teammate. Each team can consist of up to 2 people.
+URL: https://sabbaticalhandbook.com/posts/other-resources-around-the-web
+Title: Other Resources around the Web
+      
+    
+Content: 
 
-4. Use of Visual Elements: Graphics, diagrams, and charts can be used to enhance the article. If using external visual content, proper credit must be given to the original source.
+Even though sabbaticals are far from mainstream, more and more people are starting to write about this.
 
-5. Multiple Submissions: The same person or team can submit more than one article for consideration. In case of multiple entries by the same team or individual, only one winning article will be selected.
+The OG is DJ DiDonna who has done tonnes of research on this topic. He has a website full of great info here: https://thesabbaticalproject.org/
 
-6. Originality: All submissions must be original and unpublished work. Plagiarized content is strictly prohibited and will result in disqualification.
+Sachin Kataria writes about sabbaticals on linkedin https://www.linkedin.com/pulse/going-sabbatical-sachin-kataria/ 
 
-7. Citation of Sources: All sources and references used in the article must be properly cited.
+------------------------------------------------------------
 
-8. Submission Deadline: Articles must be submitted before the contest deadline for consideration. Late entries will not be accepted.
-
-Adhere to these guidelines to ensure a fair and exciting competition. Let your ideas flow and may the best article win!
-
-
-Prizes & Awards
-
-- Overall Best Blog Winner: $400 
-- Category Winners: $250 (for each category)
-
-Please note:
-
-- Prizes are non-transferable and non-returnable.
-- Only one prize will be awarded per entry/per author. If an author has co-authored two or more articles, only one will be eligible for a prize.
-- Winners will be determined by the judges and the Marcom team. The judges' decision will be final and binding.
-
-
-Three Steps to Choose Your Blogathon Topic
-
-Deciding on a topic can be challenging, but we've made it simple for you. Follow our three-step process to choose a topic that blends your professional expertise with your personal interests.
-
-Step 1: Choose Your Field
-
-Think about the areas of expertise and tools you've used in your work. These could include:
-
-- Big Data Core
-- AWS, Azure & GCP BDE
-- Big Data Streaming
-- NoSQL Database Implementations
-- IoT Frameworks on Cloud
-- Data Quality
-- Data Lakes
-- Data Warehouses
-- Data Catalog
-- Data Governance
-- Master Data Management
-- Reference Data Management
-- Virtualization
-- Data Fabric
-- Operational Data Store
-- Metadata Driven Frameworks
-- Automated CI/CD Processes
-- Automated Testing
-- Snowflake
-- Data Modeling
-- Databricks
-
-Step 2: Identify Your Passion or Hobby
-
-What do you love to do in your free time? What excites and interests you? It could be:
-
-- Art
-- Gaming
-- Business
-- Finance
-- Music
-- Streaming
-- Movies
-- Sports
-
-Step 3: Combine Your Field and Passion
-
-Now, merge your professional field with your personal interest to create a unique topic. For example, "How Data Modelling can Help in Better Personal Finance."
-
-This process will allow you to write on a subject you're both knowledgeable and passionate about, making your blog even more engaging and enjoyable to read. Start brainstorming now and uncover the perfect topic for your entry into the Tiger Thoughtfluencer Program!
-
-Blog topics:
-1. Leveraging AWS for Enhanced Gaming Experience
-2. Azure Solutions for Finance Sector
-3. GCP BDE Tools for Movie Analytics
-4. Streamlining Sports with Big Data Streaming
-5. Unleashing the Power of NoSQL Databases in Music Industry
-6. How IoT Frameworks are Revolutionizing Art World
-7. Data Quality Checks for Online Streaming Platforms
-8. Building a Robust Data Lake for Business Analytics
-9. Utilizing Data Warehouses in the Gaming Industry
-10. How a Data Catalog can Enhance Movie Recommendations
-11. The Role of Data Governance in Finance
-12. Master Data Management in Sports Statistics
-13. Reference Data Management in the Music Industry
-14. How Data Virtualization Aids in Business Decision Making
-15. The Impact of Data Fabric on Gaming Platforms
-16. Operational Data Store: A Game-changer for Online Streaming
-17. Metadata-driven Frameworks for Efficient Business Operations
-18. Automating CI/CD Processes in the Music Industry
-19. How Automated Testing is Changing the Game in Sports Analytics
-20. Snowflake's Impact on Movie Analytics
-21. How Data Modeling Enhances Personal Finance Management
-22. Unleashing the Power of Databricks in Business Intelligence
-23. Using AWS to Streamline Art Creation and Sharing
-24. Harnessing Azure's Power for Efficient Gaming
-25. How GCP BDE Tools are Changing the Finance Landscape
-26. Streamlining Movie Production with Big Data Streaming
-27. The Impact of NoSQL Databases on Sports Analytics
-28. How IoT Frameworks are Transforming the Music Industry
-29. Ensuring Data Quality in Business Decision Making
-30. Building an Efficient Data Lake for Online Streaming
-31. Leveraging Data Warehouses for Better Gaming Analytics
-32. How Data Catalogs can Improve Music Recommendations
-33. Enhancing Financial Decisions with Data Governance
-34. Mastering Sports Stats with Master Data Management
-35. Changing the Music Landscape with Reference Data Management
-36. How Data Virtualization is Revolutionizing Movie Recommendations
-37. The Role of Data Fabric in Business Processes
-38. Operational Data Stores: Changing the Game in Online Streaming
-39. Metadata-driven Frameworks for Efficient Gaming Platforms
-40. Automating CI/CD Processes in the Finance Industry
-41. How Automated Testing is Impacting Sports Analytics
-42. Snowflake's Role in Enhancing Business Intelligence
-43. Data Modeling for Better Personal Finance Management
-44. Unlocking the Power of Databricks in Movie Analytics
-45. Using AWS for Advanced Music Streaming
-46. Azure's Role in Enhancing Gaming Experience
-47. How GCP BDE Tools are Streamlining Business Operations
-48. The Impact of Big Data Streaming on Movie Recommendations
-49. NoSQL Databases: Changing the Game in Sports Analytics
-50. IoT Frameworks: Revolutionizing the World of Online Music
-51. Ensuring Data Quality in Gaming Analytics
-52. Building a Robust Data Lake for Efficient Business Operations
-53. Utilizing Data Warehouses in Online Streaming
-54. Data Catalogs: The Future of Movie Recommendations
-55. How Data Governance is Impacting Financial Decisions
-56. Master Data Management in the World of Sports
-57. Revolutionizing the Music Industry with Reference Data Management
-58. How Data Virtualization is Changing the Game in Business Intelligence
-59. The Role of Data Fabric in Online Streaming
-60. Operational Data Store: A Game-changer in the Gaming Industry
-61. Metadata-driven Frameworks for Efficient Business Operations
-62. Automating CI/CD Processes in the World of Online Music
-63. How Automated Testing is Revolutionizing Sports Analytics
-64.
-
- Snowflake's Role in Streamlining Business Intelligence
-65. Enhancing Personal Finance Management with Data Modeling
-66. Unlocking the Power of Databricks in the Gaming Industry
-67. Using AWS to Streamline Movie Production and Distribution
-68. Azure's Role in the Music Streaming Industry
-69. How GCP BDE Tools are Revolutionizing Business Operations
-70. The Impact of Big Data Streaming on Sports Analytics
-71. NoSQL Databases: The Future of Online Music Streaming
-72. How IoT Frameworks are Transforming the Gaming Industry
-73. Ensuring Data Quality in Business Analytics
-74. Building an Efficient Data Lake for Movie Analytics
-75. Leveraging Data Warehouses for Better Gaming Analytics
-76. How Data Catalogs are Transforming the Music Industry
-77. Enhancing Financial Decisions with Data Governance
-78. Master Data Management in Movie Production
-79. Reference Data Management: A Game-changer in the Gaming Industry
-80. How Data Virtualization is Revolutionizing Business Intelligence
-81. The Impact of Data Fabric on Online Music Streaming
-82. Operational Data Stores: Changing the Game in Sports Analytics
-83. Metadata-driven Frameworks for Efficient Business Operations
-84. Automating CI/CD Processes in the World of Movies
-85. How Automated Testing is Revolutionizing the Music Industry
-86. Snowflake's Role in Enhancing Gaming Analytics
-87. Data Modeling for Better Business Decisions
-88. Unlocking the Power of Databricks in Sports Analytics
-89. Using AWS for Advanced Business Analytics
-90. Azure's Role in Enhancing Movie Production and Distribution
-91. How GCP BDE Tools are Streamlining Sports Operations
-92. The Impact of Big Data Streaming on Music Streaming
-93. NoSQL Databases: Changing the Game in Gaming Analytics
-94. How IoT Frameworks are Transforming Business Operations
-95. Ensuring Data Quality in Movie Analytics
-96. Building a Robust Data Lake for Gaming Analytics
-97. Utilizing Data Warehouses in Music Streaming
-98. How Data Catalogs can Improve Business Decisions
-99. Enhancing Sports Analytics with Data Governance
-100. Mastering Music Stats with Master Data Management
-
-
-
-Another way to generate topic ideas:
-
-Feeling stuck while choosing a topic for your article? Try a different approach. Reflect on your personal experiences and explore the unique insights you've gained from your projects. 
-
-Begin by thinking about your past or current projects. Did you or your team implement any unique solutions or strategies? Did you overcome a significant challenge or find an innovative way to speed up a process? Did you learn any tips or tricks that made working on your projects easier, faster, or more effective? 
-
-Here are a few prompts to get you started:
-
-- What are some of the most challenging problems you or your team faced in your projects, and how did you overcome them?
-- Did you ever devise a unique strategy or framework that made your work more efficient?
-- Are there any tools or techniques that you found particularly useful in your work?
-- Have you discovered any hidden features in a tool that made a significant difference in your project?
-- How can this experience be turned into an informative and engaging article?
-- Who would benefit from learning about this experience?
-- What are the key takeaways from this experience that readers can apply in their own work?
-- How can this experience contribute to the broader field of knowledge in your area of expertise?
-
-Blog topics:
-1. How to Speed Up Your Data Analytics Project: Lessons from My Experience
-2. Making the Most of AWS: Essential Tips and Tricks from My Project
-3. Using Databricks for Enhanced Gaming Analytics: A Practical Guide
-4. Navigating Big Data Streaming in Music Industry: Insider Strategies
-5. Revolutionizing Business with NoSQL Database: My Journey
-6. The Power of IoT Frameworks in Movie Analytics: Lessons from My Project
-7. Ensuring Data Quality in Business Intelligence: Practical Tips and Tricks
-8. Building Efficient Data Lakes: Insider Strategies from My Experience
-9. Maximizing Data Warehouses in the Gaming Industry: A Practical Guide
-10. Leveraging Data Catalogs for Better Decision Making: My Journey
-11. Implementing Effective Data Governance: Lessons from My Project
-12. Master Data Management in the Sports Industry: Insider Strategies
-13. Making the Most of Reference Data Management in the Music Industry
-14. Utilizing Data Virtualization for Improved Business Intelligence: Practical Tips
-15. Exploiting the Potential of Data Fabric in Movie Production: My Journey
-16. Operational Data Store: The Game-Changer in Sports Analytics
-17. Using Metadata-Driven Frameworks for Efficient Business Operations: Lessons Learned
-18. Streamlining CI/CD Processes in the World of Movies: My Journey
-19. The Impact of Automated Testing on Music Streaming: Insider Strategies
-20. Exploring Snowflake's Power in Gaming Analytics: A Practical Guide
-21. Advantages of Data Modeling in Business Decisions: Lessons from My Project
-22. Azure and Movie Distribution: Unleashing Potential from My Experience
-23. GCP BDE Tools: Revolutionizing the Sports World - A Personal Account
-24. Big Data Streaming and Music Streaming: An Insider's Guide
-25. Implementing NoSQL Databases in Gaming Analytics: Practical Tips from My Experience
+URL: https://sabbaticalhandbook.com/posts/aaraam-haraam-hai
+Title: Aaraam Haraam Hai?
+      
+    
+Content: A great work ethic needs a great rest ethic.
+
+Someone recently sent me this video and asked what my take is on this.
+
+I think SRK is 100% correct. There is absolutely no doubt in my mind that it takes hard work to build remarkable things. But if SRK is being truthful and my intuition is correct, then I posit that this lifestyle is not sustainable. 
+
+So one has to be very, very careful when consuming motivational speeches. Anything that has uplifting background music is designed to make you feel a certain way. It may or not be true. And it almost certainly isn't the whole truth.
+
+So when faced with a video like this, or any of the millions of hustle-porn videos that cover YouTube wall-to-wall, and especially on the short video format, you have to remember a few things
+
+how old are you? If you're young and yet to be established in a career, then this is definitely the correct advice. Nothing worthwhile was built without effort.
+Now consider this - if you're listening to an Olympic athlete or a film star, consider that they had the finest training and a team dedicated to ensuring that they eat right, rest right and do not train to the point of injury. You do not have this.
+if you're listening to a social media influencer, wait a bit. All influencers will burn out given enough time. You will start to see them say things like 'creative juices not flowing' and so on.
+you can also ask yourself - is this the only truth there is? Is it a truth that covers all people and all situations? Frankly, what else is SRK going to say to a mass audience? That hard work is not critical? It absolutely is. I agree whole-heartedly with that. It's just that it is not the only truth out there. A great work ethic needs a great rest ethic.
+
+
+And of course, this book doesn't promote sabbatical as anything apart from the necessary complement to hard work. It is commonly known that running is good for you. One should run. But it is also common sense to not run when one's feet are fractured, no matter how much of a virtue Internet influencers may make of 'never giving up'.
+
+
+
+One of the central tenets of this publication is that one should listen to one's body. Your body is a magical truth-finding machine. When your body is happy and healthy it will find ways to be useful. It will want to work. When you feel fine you should work and you should work very hard. But when you are exhausted, burnt out, out of ideas or not making progress, it might be useful to take a different approach.
+ 
+Even SRK would agree.
+
+------------------------------------------------------------
+
+URL: https://sabbaticalhandbook.com/posts/now-is-a-great-time-to-take-a-career-break
+Title: Now is a great time to take a career break
+      
+    
+Content: 
+
+What? In this economy?
+ 
+
+Precisely.
+We've hit the perfect storm for Indian startup employees. Years of easy money fuelled overly-large teams led by inexperienced operators which fuelled a crisis of meaning which was papered over by ever increasing valuations and the promise of ESOPs providing life-altering sums of money.
+Now that those heady days are over, we're in for a period of worsening layoffs and curtailed spending by any startup that has money in the bank.
+And en masse the funding is moving towards the AI bubble that means many startups from previous cohorts will have to work extra hard to maintain investor interest.
+In this environment, there are two kinds of people -- those who have an emergency fund and can go 9 months to a year without income and those who cannot. And for the former, the current time represents a golden opportunity.
+
+
+ 
+Paradigm shifts used to happen once every few generations. The invention of electricity was one such. Radio was another. The Internet was another. AI is the current one. So my generation has lived through two paradigm shifts. Subsequent generations will live through many.
+And what my experience has taught me is that being correctly aligned with the dominant paradigm it is worth 40 IQ points and/or millions of dollars (because if you're so smart, you will also be so rich, right?)
+
+If you're burnt out, working for a legacy startup (yes, much SaaS is on the brink of being legacy) with no hope of raising some sweet sweet AI funding, it might be worthwhile to consider taking a career break to recover and move towards the new dominant paradigm.
+The AI field is so new that 4-6 months of dedicated study in this field can put you in very rarified company. The RoI on this beats the RoI of flogging a legacy role at a legacy company with a complicated cap table and possible down rounds.
+If you have the runway, just go for it. And if you're wondering how to execute this well, I have the ultimate guide for you. I'm putting together the Sabbatical Handbook precisely for those of you who resonate with what I just said. In it you will find a lot of practical advice about how to think about, plan, execute and exit a career break like a Simone Biles nailing the vault.
+
+
+
+
+------------------------------------------------------------
+
+URL: https://sabbaticalhandbook.com/posts/builder-take-a-sabbatical
+Title: Builder, rest your tools a while
+      
+    
+Content: Are you rage-building a start up? Want to build something that lasts?
+
+If you’ve never considered taking a sabbatical, you should. Especially if you want to build something big.
+ 
+If your first reaction was one of ‘this will never work’, that’s perfectly normal. Sabbaticals are very counter-intuitive. They seem like a waste of time. It feels like you will fall behind the rest of the world -- perhaps the market is white hot right now and the FOMO is unreal. But we’ve seen white hot markets before. The world has always been moving. People are always cashing in, whether we FOMO about it or not. Ask yourself - this fear, where does it come from? This white heat. Whence does it arise? How would you prefer to live your life? Being yanked back and forth by inscrutable forces beyond your control, or calmly riding those waves to the best version of yourself?
+ 
+
+
+“Until you make the unconscious conscious, it will rule your life and you will call it Fate.”
+- Carl Jung
+
+ 
+Do you want to be a warrior? Or a weapon in the hands of your conditioning, which is to say, in the hands of randomness?
+ 
+Life is about leverage, not strength
+Just at the point when one achieves leverage in life — resources, time, networks, reputation — it is the most important thing to understand what a lever is, how it is to be placed and manipulated and most importantly - where will you place it? What will you move with it? Your reputation? Your bank balance? Or the whole of your being? And where will you move it to?
+ 
+In all of these questions - what should I do next? Where should I live next? etc there is a lot of emphasis placed on the "what" and "where" and next to none placed on the "I". And my thesis is that all of these questions miss their point without an understanding of the I. And the I cannot be understood by analytical means.
+ 
+Traumas, copings and cravings
+ 
+It was Einstein who said that
+ 
+
+“a problem cannot be solved by the same level of consciousness that created it”
+
+ 
+In other words, the same “I” that got you here is not going to be able to answer your questions. For these questions can only be answered by an I that has integrated the lessons of your lifetime to a point where it is no longer driven by the same impulses. An impulse can only have a motive force if it is something external, something unintegrated.
+ 
+
+Only an external force can provide an impulse
+ 
+ 
+Integration of the mental, physical, emotional and spiritual content of your life so far (I call these your “traumas”) necessarily leads to a different set of impulses. And since your impulses represent unintegrated experience (Saṃskāras), building the next sequence in your life based on them means you will get pulled further and further out of alignment. It is critically important that you integrate these samskaras before laying the foundation of your cathedral, lest you end up worshipping a God that can do nothing for you any more.
+ 
+
+------------------------------------------------------------
+
+URL: https://sabbaticalhandbook.com/posts/at-large-in-the-garden-of-eden
+Title: At Large in the Garden of Eden
+      
+    
+Content: 
+
+
+Vibe this -  that the world is a garden of delights. 
+Then vibe with what you 'know' about the world. Is it the same vibe? I didn't think so.
+The world in our head seems more like a coal-mine than a garden. A mine where you stop digging means you stop producing value. Whatever we take home is extracted through labour. To miss a day of work means to not eat that night.
+But this is a dead end conception.
+The truth is that we are alive. Not just that, the whole of creation is alive. Things are constantly being born and ripening and producing and creating. And there are still parts of civilisation that are just like living in a garden. With a bit of care, a bit of skill, a bit of love and bit of patience we can get for ourselves endless sustainance and myriad of pleasures, just by going with this flow.
+But this garden is not open to those that sees the world as a coal-mine. Sabbatical is a vehicle for changing that mindset. For dipping your toe into this lifestream of creation and for knowing with certainty that you will be ok, that this stream is endless and it provides for everyone that lives in accordance with its flow.
+This is the abundance mindset. And it is its own reward. Much more valuable than any career outcome.
+
+------------------------------------------------------------
+
+URL: https://sabbaticalhandbook.com/posts/swades-the-ultimate-sabbatical-movie
+Title: Swades - the ultimate sabbatical movie?
+      
+    
+Content: 
+
+I just saw Swades. 
+ 
+
+Yes, for the first time. The movie came out in 2004 when I'd just left my job in London and returned to India and I didn't want to engage with those emotions that were still raw in me, and so I never saw it even though everyone around me was raving about it. Until last night. 
+One of the perks of being married to a film maker is that movie nights are sometimes about making sure that our son has seen the major Bollywood films and so we've been through all the Amitabh Bacchan hero films, Amol Palekar, Hrishikesh Mukherjee and so on. Last night it was the turn of Swades. And from the first scene it appeared to be talking about so many of the same things that the Sabbatical Handbook is talking about. Let's dive in!
+ 
+The call
+The movie starts with Mohan (SRK) living what seems to be the dream, a scientist on the up at NASA, sending satellites into space no less. And yet, something is amiss. Some deep rooted voice, tiny and weak, has been calling to him, insistently and continuously to the point where it can no longer be ignored. In the film it is memories of his childhood nanny Kaveri Amma, but if you'll allow me the liberty, Kaveri Amma is symbolic of any one or anything that has been the epitome of unconditional love and acceptance. For many of us, the call comes from inside the house, from our bodies who have always been with us unconditionally, always doing what we ask of them. And Mohan knows he can ignore the call no longer. To make it make sense, he decides to take some time off. Two weeks only. He has to answer the call.
+ 
+So he lands in Delhi and drives in his caravan to the village of Charanpur. The caravan here is symbolic of his attachment to his life in America. It is his desire to not get too dirty, to hold on to the comforts of his current life as he navigates this mission to find Kaveri Amma and bring her to the US with him.
+He finds Kaveri Amma, still so warm and unconditionally loving, she holds no grudge about his years of absence and is just glad that he has come to meet her.
+
+ 
+And no sooner has he taken this step than he is rewarded with that thing that he has completely forgotten about -- desire. This is what he was missing in his antiseptic and calculating surroundings -- raw and incalculable human desire.
+ Pulling the thread
+
+ 
+The object of desire is his childhood friend Gita, now grown into a very comely young woman indeed. And Mohan pulls on that tiny thread of desire and it unravels for him a completely new life. Charanpur is remote with no cell phones and no internet and thus separated from his old life, Mohan dives into the thrilling desire and in order to win Gita over he begins a mission to increase enrollment in her village school.
+Little does he know where pulling on that thread will take him -- he comes face to face with human suffering and realises that there are missions on this earth that are more important than any space mission.
+ 
+ Finding the mission
+Returning from an unsuccesful attempt to collect overdue rent from a most wretched farmer, Mohan feels the overwhelming burden of human suffering and for the first time he drinks Indian water.
+
+He has left his bubble.
+The dawning of these emotions inside him represent the awakening of latent desires, subdued by conformism and industrialisation and an impersonal world of capital and commerce. But Mohan learns that he is still human and the feeling of being human is now so well established, so precious, that it is more important than anything else. Mohan has found his mission.
+This is what sabbatical is about. Take a break from your environment, stop blindly accepting the desires that are placed inside you by advertising and FOMO, live quietly and allow your own desires to surface, because once they do they will do so with a force that cannot be denied. It's like tasting real food after spending decades eating Kurkure. It nourishes and energises so completely that one can never really go back to the way things were.
+And this unleashes an animal inside him. Fed up with sclerotic Indian society that docilely accepts all its suffering, he takes up a mission to bring electricity to Charanpur. With the fire of his mission burning inside him, he energises the youth of the village to donate their labour for the construction of a small power plant, to free the village from the corruption and bureaucracy of the Indian state and its never fulfilled promises.
+The mission succeeds and we see a poor Dalit granny's face lit by electricity for the first time in her life.
+
+But the real incandesence that has been born is in Mohan.
+
+ 
+This fire that burns so bright, so true that it burns away all the old and powers the journey into the new, into alignment, into living by one's core desires, this is the real gift and magic of sabbatical. It is the most precious thing in the world. Society and conditioning would want you to forget all about this fire, to put your head down, to use your lamp to brighten the doorstep of your neighbour, not yourself.
+But having the courage to hear the call, the courage to admit one's desires and pursue them and the courage to allow oneself to surrender to one's mission, these are very rare. And there is no guarantee that walking this path will bring you to your mission. But if you stay where you are it is guaranteed that you will never find it.
+And once you find it, you can embrace it with your whole being.
+
+Go on then. Be an animal!
+ 
+------------------------------------------------------------
+
+URL: https://sabbaticalhandbook.com/posts/life-is-not-a-sprint
+Title: Life is not a sprint.
+      
+    
+Content: 
+
+They say that life is not a sprint.
+
+That it is a marathon. 
+I'd say if we're making analogies then at least let us not break down the act of living to something so unidimensional as getting from start to finish as fast as possible. A sprint that ends sooner is a better sprint. Can the same be said about life? So let's demand a little more from our analogies, i.e. that they don't fall apart at the first test.
+Life is more like a trek.
+You see, neither the sprint nor the marathon go any place meaningful. But treks do. Reaching the end of one trek has a different meaning than reaching the end of another. All sprints are equally meaningless. All that is interesting about them is that they cover a particular distance. I don't like to look at my life as a task to be completed as quickly as possible.
+A trek involves reaching higher, reaching places from where one can see further, from where one's horizon is expanded. Treks involve beauty, and the stop to admire the beauty. To live for a while humbled by the beauty of creation, to give thanks for this vessel your body through which we experience this world and to feel closer to the Creator. I like to think my life can be like a trek.
+And there is no trek that goes anywhere meaningful that does not include rest as a part of the trek.
+
+Rest is absolutely crucial to pushing through to the end of the trek. For reaching summits that are beyond one's capability, where it takes an absolute will to succeed and every last bit of sinew, there is no getting there without careful preparation and an optimal usage of all one's resources and strength. And such optimal use is impossible without rest.
+ 
+If you want to further than you think you can go, you're going to have to use your energy strategically. And hustling 24/7 is the very opposite of strategic use of energy. It might work over shorter time durations, but for those of us who want to play the long game, periodic rest is very important.
+
+
+
+------------------------------------------------------------
+
+URL: https://sabbaticalhandbook.com/posts/why-sabbatical
+Title: Why I Take Sabbaticals
+      
+    
+Content: 
+
+I take sabbaticals for the same reasons that Thoreau went to live at Walden Pond
+
+“I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived.”
+
+TLDR; I take sabbaticals because the world is too rich and wonderful a place to only be appreciated through work and I do not want to attempt to live once retired at 65, only to find that I cannot.
+I want to gorge on life like a pig at the trough, suck the marrow out of it and taste all aspects of it when I am alive. This is the best way I can think of to honour this human birth. 
+This means that when I work I work very hard. I take on big challenges and give it my everything. But once everything has been given and there is nothing more left to give, that's when I know that I need to honour the other parts of myself. That it's time to go walkabout. And then I go, nurture and nourish parts of myself that have been neglected, improve my health, deepen my spiritual practices and follow my joy wherever it may lead me.
+...but it wasn't always like this.
+My first sabbatical was not by choice. 
+I was living what looked like, from the outside, an excellent life. I was working as a banker in London, flying business class to New York, being driven around in Mercedeses and generally living in the lap of luxury. And completely miserable. For some reason, I never really felt at home in banking. The long hours were crushing and London can be a brutally lonely place. I could not share the preoccupations and priorities of my coworkers and every interaction was a drain on my energies.
+With no support structure and no one to show me how to live, I fell into a terrible lifestyle of overwork, stress and the attendant coping mechanisms -- alcohol, parties and so on. After five years of living a life diametrically opposed to my core values, I was completely burned out.
+A fog of grey had descended over my preception and there were days when I could do no work at all. The burnout was so deep and so intense that the thought of going to work was enough to make me sick to the stomach. I was an empty husk of a man. I needed rest and no one was telling me to get some rest. Much of what I heard was - "you're so lucky, how can you not be grateful for what you have, you're letting your parents down" and so on. The few friends who supported me did so out of love for me, not out of any great conviction that I'd be better off if I quit.
+During this time I suffered a great deal of anxiety and self-doubt. I had failed. Sitting by the huge plexiglass windows at the bar at the top of Tower 42, I told a friend -- My career is over. What else can I do besides banking? What else is there to do?
+
+
+
+In the end, leaving banking was no longer a choice. One afternoon I handed in my badge and laptop and I exited that pale yellow building into the pale yellow sunlight of a July London afternoon. For a while I just wandered, still uncomprehending that I was free. I remember walking down Picadilly Avenue in the middle of the afternoon, like a schoolboy playing truant, and I loosened my tie and did a little dance on the street because there, alongside all the anxiety and self-criticism, I noticed the first tiny flicker of joy. Something deep inside me knew that whatever was happening was correct.
+Looking back I was lucky that I didn't have a choice, because what happened next defied belief. Not only was my career not over, it blossomed.
+
+
+------------------------------------------------------------
+
+URL: https://sabbaticalhandbook.com/posts/i-just-don-t-have-the-guts-to-take-a-break
+Title: "I just don't have the guts to take a break"
+      
+    
+Content: 
+
+Since I talk so openly about sabbaticals on my Twitter and elsewhere, people reach out to me to ask my advice. And over and over again I hear this --
+
+I know I need to take a break, but I just don't have the guts to do so.
+
+Ok, let me tell you about guts.
+
+Your gut is the thing that is telling you to take a break. If you've reached the stage where you know you need a break, it is because you didn't do what your gut asked you to do. Your gut told you something is wrong, that something is toxic in the work environment, you didn't listen. Then your gut started to tell you that you're pushing too hard, but you ignored it. Then your gut started to tell you that you need a break and you're doing the same thing. You're not listening. The next step is collapse.
+If you think you don't have the guts to pull the plug on a toxic situation where your whole being is screaming to you to quit the scene, just wait till you encounter total collapse. Because that is what is approaching as an inevitability.
+
+All your ' I don't have the guts' is just you trying to not take accountability for your actions. You would rather end up in a hospital with a saline drip than exit of your own accord. Why?
+
+
+------------------------------------------------------------
+
+URL: https://sabbaticalhandbook.com/posts/just-started-a-sabbatical-read-this-first
+Title: Just Started a Sabbatical? Read this first
+      
+    
+Content: 
+
+So you've just started a sabbatical? Congratulations! This is the start of a journey of self re-connection and self rediscovery that will stand you in good stead for many years to come. But there are a few things to be aware of in order to get the maximum benefit from your break.
+The thing to remember is that there are only a few ways to botch a sabbatical and these are 
+
+- not taking enough time for your sabbatical and
+- working
+
+
+One of the only ways to botch a sabbatical is to not take enough.
+
+If you're taking a sabbatical for reasons of exhaustion, know that there is a minimum amount of recovery that is necessary. Starting to get into work mode before that amount of recovery has happened will see you again in the same situation of burnout and exhaustion. 
+In an earlier article, I talked about how constant exposure to the stress hormones of cortisol and adrenaline is a core feature of the modern workplace and how this leads to a slow and insidious and growing addiction to this cocktail. And now we start to see why your cortisol addiction is so dangerous. It is one of the main reasons that people bounce too early from their sabbaticals.
+Navigating the early sabbatical
+The first few days of sabbatical are equal parts glorious and terrifying. You wake up from an afternoon nap, the sun three quarters past the meridian and birds chirping outside and you revel in the luxury of a sleep well slept until consciousness arises and then you panic -- sleeping in the afternoon? Whatever will become of me?
+The tension between what is good for you and what you're addicted to plays out throughout the day. There are times when you cannot believe your good fortune that you get to do all the things you want to like binge Netflix, read, exercise and so on. And at other times you feel an intense impulse to work.
+It is this latter impulse that bears looking at closely. In the first few days of your separation from the workplace, there will be times in the day when your thoughts turn to starting your own business or improving on something that you worked on at your last job, or stealing clients from your erstwhile employer because....
+
+
+This is the trick of the addiction. There is no "because". There is no good reason to return to work. And yet the mind will not sit still. It lunges at the bars of freedom like a caged beast, if you will permit the absurd metaphor. And it does this because it is addicted to stress.
+Logically, everyone can agree that taking a few months off after a decade plus of working is not a one way ticket to homelessness. But then what explains this urgency you feel? That is the addiction at work -- pulling at your insecurities, invisibly reshaping the texture of reality, filling your head with its own irrefutable logic.
+Anyone who has tried to quit smoking knows how tricky the addiction is. The kind of excuses and warped logic that it brings to the mind, logic that can only make sense to an addict looking to justify one more hit. 
+This is precisely what happens to you in the early days of a sabbatical. You feel that your entire value has been taken away from you and this can be a scary and disorienting feeling. This is precisely what the cortisol junkie wants. Not only do thoughts like this cause some of that delicious stress that the junkie is craving, it also leads you inexorably back to work and that cortisol-rich environment.
+Imagine you're on a trek with friends and as nightfall arrives, you stop at a little hut. While the rest of your friends bed down in their sleeping bags, you start to pace up and down the little hut.  Bewildered, your trekmates ask you what you're doing. Without breaking step you answer - 'we've come here to walk so I am walking'.
+This story above is clearly absurd and you can see the absurdity in it. But for some reason, you cannot see the absurdity in your own situation, where you have taken time to rest and recharge but instead you are working. This is the power of cortisol addiction. It warps your preception to the point where you cannot even see the logical contortions required to justify your actions.
+Fear is a very powerful motivating force, but it is also as easily dispelled. Fear counts on you not turning to face it, to take a closer look, to see what's behind the mask of this fear. Like the old Mountain Dew ad, the only thing behind the mask of fear is victory.
+Simply being aware of the fact that the thousands of thoughts about work in your head are all a withdrawal symptom from the cortisol-rich environment will itself give you the resources to not succumb to the pressure of the addiction.
+There are many more techniques to deal with this situation which I'll talk about in subsequent posts but for now it should suffice for you to know that the situation improves with time. Just give it time and your body will reset itself to a healthy state of cortisol-dependency and your fears about the future will fade away. And you will be amazed as to how we see the world not as it is but as we are.
+The main goal of sabbatical is to reconnect with oneself. And how can we know that we have done so? Well, the first clue would be that we no longer identify with the preoccupations of the person who went on sabbatical -- that burnt out husk of human, that bundle of fears, that twitchy, nervous frightened little thing. As long as we have their preoccupations at the top of our minds, we are still that person, disconnected from our core self.
+When their fears and motivations drop away, that is when we can start to tell that we are making meaningful progress towards being ourselves again. If you bounce from your sabbatical while you are still the person who went on sabbatical, you've ended your sabbatical too early.
+And this is the most important thing you need to know about the early days of the sabbatical.
+
+
+
+------------------------------------------------------------
+
+URL: https://sabbaticalhandbook.com/posts/the-structure-of-a-sabbatical
+Title: The Structure of a Sabbatical
+      
+    
+Content: 
+
+In order to conduct one's sabbatical well, it is important to understand the nature of the physiological and psychological changes that are going to unfold over your break. Once we understand these, we can then decide what to emphasise in order to meet our sabbatical goals -- do we emphasise rest and recovery, do we emphasise reconnection or creativity or exploration....all these questions become much easier to answer once you get a handle on the process.
+ 
+As you enter your sabbatical, your old self is going to want to drag you back to the cortisol-rich environment of work. Resisting this withdrawal symptom is the most important thing you need to do. If you manage that part well, the rest of the sabbatical unfolds quite automatically.
+ 
+Sabbaticals are like sleep
+Just as we sleep in phases, it seems that sabbaticals also follow a similar pattern.
+
+
+There is the initial phase where we prepare to rest and lie down in bed, then there's the dropping into sleep, the fading away of the world, the deepening of sleep, the dreaming and at some point the body naturally wakes up. Your sabbatical will follow somewhat of a similar pattern.
+
+I call these phases the Entry, the Deepening and the Exit. Each has to be understood and navigated in its own right. Of the three, the Entry is the most critical phase of your sabbatical. This is where you can seriously compromise the effectiveness of your time off by not allowing the natural process to unfold or by trying to hurry things along (there is a way to hurry things along but that is for advanced practitioners only). 
+We will be doing a deep dive into each of these phases separately, but for now we'll quickly cover the basics.
+Entry
+The entry into the sabbatical is that liminal space, like being strapped into a bungee cord or waiting to skydive from a plane - everything is still as it should be but a leap will be made soon and anything can happen. The first few days of sabbatical are pregnant with anticipation, like the first waves of monsoon clouds and the sweet petrichor after a scorching summer.
+But this burgeoning excitement is also the biggest trap in the sabbatical. And the trap unfolds very sweetly. The trap of work.
+Why is it a trap? It's a trap because the job of a sabbatical is to rewire your consciousness and reconnect you with your joy. If you start to work on your sabbatical you will not enter those states and spaces that you need to deepen your experience of being alive and of building a career aligned with your core desires. You will bounce off your sabbatical and back into your old life.
+In any case, over the period of your entry you will experience two relaxations. After the first one, the risk of bouncing from your sabbatical early diminishes a whole lot. After the second one your sabbatical truly begins.
+Deepening
+Once your nervous system figures out that the environment has changed for real, it releases it's vice like grip on your consciousness. I know you're thinking -- what vice like grip? Trust me, it is there. Like the sound of a fan that you've tuned out because it carries no information, the modern work life has created in your consciousness a tension and alertness that are always there and you can't feel them. Just like you only notice the fan sound when it stops (no doubt due to a summer power cut), you will only know that you were tense when the relaxation happens.
+And when it happens it is usually accompanied by a release of energy, the energy that was being used to maintain that alertness is now suddenly available for use and this energy flows through the body as happiness or well being.
+On this current sabbatical I remember the exact moment. I was in Dharamshala and I remember feeling "ok! this is more like how life should feel" and I knew I was beyond the second gate and into the Deepening.
+
+The Deepening is where the drives and impulses acquired during your stint at work have reduced to the point where they aren't driving your actions. You have now made space for the Universe to speak through you, to be a vessel in service of your deepest goals and aspirations. Now you are on your own, to be alternatively impressed and disappointed with yourself, to be aghast with how pathetic you are and to grow in confidence as you realise how awesome you are.
+And there will come now many other desires, flooding out, the desire to do pottery, the desire to travel, the desire to read, and now there will be no resistance. You will let the flame of your desires consume you until only the ones that burn without reason, without smoke, without pain, only those lamps of desires still burn within you.
+And thus cleansed and purified, you are now ready to make your way back to the real world.
+ 
+The Exit
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------
+
+URL: https://sabbaticalhandbook.com/posts/a-matter-of-balance
+Title: This is not your father's career
+      
+    
+Content: 
+
+The world that was
+Remember this world?
+ 
+This guy, or some version of him, was your standard career man some generations ago. He could look forward to about 40 years of 40 hour weeks, one job for most of his life, steady paycheck, an uneventful retirement with enough saved to buy a house, kids in college. In short, the middle class hallucination.
+And for a while this guy existed.  And it was good.   And for many of us, this is our original, childhood conditioning of what work should look like. And yes, we are still carrying this image around at the back of our minds.
+But I got news for you. You're not this guy. You don't live in this world. You cannot have the same approach to work as he did. 
+A lot has changed since the days of our parents. The first big change is that work can now follow you everywhere.
+
+
+Balance
+I remember when I started my working life in 1998, there was literally no way to contact anyone once they left the office. The home landline perhaps, but that was a long shot. Work just naturally fit into the office hours. And banking hours were brutal, but even they would end at some point. And then came the mobile phones, so your boss could call you at any time. He still had to get you to show up at the office though. And then slowly came the laptops, so you could carry work home, and then came high speed internet and Slack so that the pings would go on 24/7 and the final nail in the coffin of work-life balance was COVID and the WFH pandemic. All boundaries were vanquished and work invaded even the bathroom.
+This level of exposure to stressors is unprecedented. It never really shuts off. Even on vacation. How are we expected to maintain our sanity like this, let alone be productive. Who figured this was going to work?
+ 
+Volatility
+The other big difference is volatility. Your life probably looks more like this.
+
+ 
+Wearing company swag, bleary eyed, surrounded by monitors flashing red at any time of day or night. And with zero security --- no assured job for life, no company pension, nothing. You either live by your wits, or you die by someone else's wits.
+The average number of jobs held during a career used to be 1 or 2. Now we switch jobs every few years. All of us are basically self-employed freelancers who move from paymaster to paymaster, all of whom have no obligation to look out for us.
+And we're seeing now the wave after wave of layoffs in the tech companies. We're seeing the bank failures. We're seeing the aftershocks of pandemic economics in the rising interest rates and the surging inflation. The 'tech bros' who till recently were commanding enormous paychecks and perks are now out of work and hurting. The world has moved on. Copilot can write the code now. 
+Obsolescence
+As of 2023, all industries are now legacy, waiting to die and be reborn in the regime of the LLMs, the autonomous agents and the artificial intelligences. This is the second such rewrite of the technological landscape in my lifetime. The first was the Internet and it's famous software the ate the world. 
+This is two secular level changes to the deep structure of the world. Entire industries died. Entire other ones were reborn. And the onus of  'reskilling' is on us. (Onus, on us, geddit?). No one is coming to look out for us, to make sure that we're going to be able to be productive and well fed members of society.
+No, the only one who is looking out for us is ourselves. In such a situation, to do nothing is to walk into the jaws of obsolescence, believing till the last day that it can't happen to us.
+We can't live like our fathers did
+The world has become a very volatile place indeed. For us to survive the constant onslaught of stress, the insecurity of knowledge work, the constant treadmill of acquiring skills only to find them obsoleted over and over....we're going to have to think different.
+And by the time you're done reading this entire text, you will understand how taking time off work can help us turn this world to our advantage. Chaos, as they say, is a ladder.
+ 
+
+
+
+------------------------------------------------------------
+
+URL: https://sabbaticalhandbook.com/posts/burnout
+Title: Burnout!
+      
+    
+Content: 
+
+From the start of the industrial age, we've had to deal with the problem of industrial accidents. When one works with machines driven by steam or electricity, humans can't get in the way or else they'll be chopped up, crushed, maimed or burnt. The early industrial age saw more than it's fair share of such accidents where puny humans came too close to the grinding gears of a relentles golem.
+But as industry matured, we got better and better at making sure humans are safe against these machines. There evolved all sorts of procedures and protocols until we can reliably run the awesome industrial infrastructure of the world with minimal injury and loss of life. Of course, there are still parts of the world where industrial safety is a distant afterthought but that's because of misplaced priorities, not because we don't know what the right answer is.
+For the subsequent knowledge age though, no such safety regime exists. Knowledge workers can be worked to the point of exhaustion with no real concern for their safety. When it was us against the machines, we could bring the machinery to heel and make it behave. But when it's us against us, then who will bring up the topic of the greatest industrial accident of our time -- Burnout!
+ 
+Burnout
+Perhaps you are familiar with this feeling -- the feeling of complete apathy. The absolute lack of any desire to do anything. Sitting for hours at one's desk with no will to lift a finger or even to think a thought. This is burnout and it happens because your brain is quite literally burnt out. The neural circuitry that uses the promise of pleasure and the reward of a dopamine hit now finds no usable receptors with which to motivate you.
+And this burnout happens because of overuse. 
+You see, the current environment is so very different from anything we've known before. Our stress responses evolved to deal with situations that would spike the stress levels for a short period of time -- imagine coming across a wild animal or an enemy tribe. Whatever the situation was, it would resolve itself in a short amount of time. For that short amount of time, the endocrine system would juice us with cortisol and adrenaline, giving us a strength and speed boost along with added focus to deal with the problem at hand.
+But ever since the advent of knowledge work and the global knowledge infrastructure called the Internet, we have been increasingly plugged into a never-ceasing flow of stress. Every waking hour we can expect a WhatsApp from the boss or a Slack ping from a team mate or alerts from the conscientious robot guardians of our systems. And what this means is that the stress is ever present.
+And our body, loyal friend that it is, dutifully provides us with the tools to deal with this stress. It pumps cortisol and adrenaline into our brains to help us deal with this situation. But alas, the system was never designed for this constant exposure to stress and at some point, it will collapse from over use.
+This is burnout and this is the great industrial accident of our times. Being able to rest well has now become a core skillset for knowledge workers. But alas, for many of us, it is too late. 
+In this series of posts on Burnout, I'm going to talk about what it is, why it happens and why it's not your fault. 
+
+
+
+------------------------------------------------------------
+
+URL: https://sabbaticalhandbook.com/posts/junkie
+Title: Junkie
+      
+    
+Content: Getting high off work is not a problem. Only feeling ok when you're working is a problem. 
+
+ 
+I know you like work. I like work too. But you know what worries me most? When work makes me euphoric. When I start to get high from work, I know that this is trouble. Oh I know you don't agree. How can something that feels so right be so wrong?
+
+how can something that feel so right be so wrong?
+Getting high from work doesn't just feel right, it feels awesome! After all, isn't this the whole purpose of our lives? To be useful. To build amazing things. Isn't this what God put us on this earth to do?
+Welcome Junkie,
+
+Your cortisol fix is ready for you. And later today we'll have some adrenaline ready for you. We're going to have sooo much fun!
+Let's ride that dragon baby!
+Oh this is not you?
+You're a responsible person. You work hard. You're trying to build a better life for yourself and your family. Hard work is required. Suffering is a given....
+Then how come you can't play cricket with your kid without your mind buzzing from work. How come you're so fidgety at weddings and christenings. How come your hands are always fidgeting with that phone? How come you lie down to sleep at night and you feel like you never slept at all? Does this sound normal? You remember ever hearing of anyone feeling this way?
+Nope. This is not normal. 
+Getting high off work is not a problem. Only feeling ok when you're working is the problem. 
+If any other activity stresses you out, then you are in one of the stages of an addiction. This addiction will demand more and more from you just to achieve baseline levels of 'feeling ok'. 
+You're a cortisol junkie.
+A What Junkie?
+Cortisol. And adrenaline. 
+
+------------------------------------------------------------
